@@ -1,16 +1,10 @@
 ## awesome-Computational Advertising<br> （计算广告，程序化广告）
-This is a collection of research and review papers of real-time bidding (RTB) based display advertising techniques. The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact Weinan Zhang.
-
-You are more than welcome to update this list! 
-If you find a paper about RTB techniques or review which is not listed here, please
-
-fork this repository, add it and merge back;
-or email Weinan Zhang (w.zhang@cs.ucl.ac.uk);
-or report an issue here.
+`This is a collection of research and review papers of Computational Advertising. The sharing principle of these references here is for research and learning. If any authors do not want their paper to be listed here, please feel free to contact [tulongf](https://github.com/Tulongf/).You are more than welcome to update this list! If you find more about computional advertise techniques or review which is not listed here, please fork this repository, add it and merge back;or email tulongf (tulongf@sjtu.edu.cn);or report an issue here.`
+`这是一个关于计算广告、程序化广告的资源收藏夹，主要用于研究学习的目的。如果下文中提到的人、论文或者其他信息，引起了您的不愉快，请联系我的邮箱tulongf@sjtu.edu.cn，我会真诚的致歉并删除相关条目；如果您有补充的，也可以fork这个文档或者发起issue,谢谢！`<br> 
 > ##先导参考
 > * 大数据[Link](https://github.com/Tulongf/Big_Data_Resources)<br> 
 > * 推荐系统[Link](https://github.com/Tulongf/Ad-Rec/)<br>
-> * 竞价广告[Link](https://github.com/Tulongf/rtb-papers)<br>
+> * 竞价广告[fork Link](https://github.com/Tulongf/rtb-papers) [source Link](https://github.com/wnzhang/rtb-papers)<br>
 
 ##知识脉络
 一、交叉领域（研究问题）<br>
@@ -47,6 +41,7 @@ or report an issue here.
  * 《互联网广告算法和系统实践》 [link](#)
 
 ##业界大牛&知名博客
+ * 上交，Weinan ZHANG [link](http://wnzhang.net/)
  * 清华大学-靳晓明 [Link](http://www.tsinghua.edu.cn/publish/soft/3641/2010/20101214205115366908394/20101214205115366908394_.html)
  * Yahoo! Research-Andrei Broder[Link](#)
  * Yahoo! Research-Vanja Josifovski[Link](#)
