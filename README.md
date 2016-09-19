@@ -47,6 +47,9 @@
 * Yahoo! Labs[Link] (https://research.yahoo.com/)
 * Google Adense [Link](https://adsense.googleblog.com/ )
 
+##相关数据集
+* Yahoo! Labs [Link] (https://research.yahoo.com/)
+* awesome-datascience data-sets  [Link](https://github.com/okulbilisim/awesome-datascience#data-sets)
 
 ##Conference & Journal
 * Data Analysis
