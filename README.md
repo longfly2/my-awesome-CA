@@ -28,13 +28,15 @@
 
 ##视频教程
 （1）《计算广告学》，刘鹏[Link](http://study.163.com/course/introduction.htm?courseId=321007#/courseDetail)<br>
-（2）Stanford – Introduction to Computational Advertising[Link](http://web.stanford.edu/class/msande239/)<br>
-（3）秒针系统2013在人大开过一门计算广告学的课 RUC DB-IIR[Link](http://iir.ruc.edu.cn/courses/ca2013.jsp)<br>
-（4）UCSC-Introduction to Computational Advertising，[Link](https://classes.soe.ucsc.edu/ism293/Spring09/index_archivos/Page456.html)<br>
+（2）《计算广告学-百度》 [Link](http://www.chuanke.com/1905702-106933.html)<br>
+（3）Stanford – Introduction to Computational Advertising[Link](http://web.stanford.edu/class/msande239/)<br>
+（4）秒针系统2013在人大开过一门计算广告学的课 RUC DB-IIR[Link](http://iir.ruc.edu.cn/courses/ca2013.jsp)<br>
+（5）UCSC-Introduction to Computational Advertising，[Link](https://classes.soe.ucsc.edu/ism293/Spring09/index_archivos/Page456.html)<br>
 
 
 ##Booklist
-
+ * 《计算广告学》，刘鹏 [link](https://book.douban.com/subject/26596778/)
+ * 《互联网广告算法和系统实践》 [link](#)
 
 ##业界大牛&知名博客
  * 清华大学-靳晓明 [Link](http://www.tsinghua.edu.cn/publish/soft/3641/2010/20101214205115366908394/20101214205115366908394_.html)
