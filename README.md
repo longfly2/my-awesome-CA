@@ -42,7 +42,7 @@ If any authors do not want their paper to be listed here, please feel free to co
  * 《计算广告学》，刘鹏 [link](https://book.douban.com/subject/26596778/)
  * 《互联网广告算法和系统实践》 [link](#)
 
-##业界大牛&知名博客
+##知名博客
  * 上交，Weinan ZHANG [link](http://wnzhang.net/)
  * 清华大学-靳晓明 [Link](http://www.tsinghua.edu.cn/publish/soft/3641/2010/20101214205115366908394/20101214205115366908394_.html)
  * Yahoo! Research-Andrei Broder[Link](#)
@@ -51,10 +51,13 @@ If any authors do not want their paper to be listed here, please feel free to co
 
 ##重要研究机构&实验室
 * Yahoo! Labs[Link] (https://research.yahoo.com/)
-* Google Adense [Link](https://adsense.googleblog.com/ )
+* google Adense adwords、admob [Link](https://adsense.googleblog.com/ )
 
 ## 重要网站&博文收藏
- * [http://www.pmkankan.com/html/category/ad](http://www.pmkankan.com/html/category/ad)
+ * [PM看看-张国鹏Roc](http://www.pmkankan.com/html/category/ad)
+ * [adexchanger广告技术流](http://www.adexchanger.cn/)
+ * [RTB China 中国实时竞价广告资讯网](http://www.rtbchina.com/)
+ * [牛国柱](http://www.iamniu.com/)
  
 ##相关数据集
 * Yahoo! Labs [Link] (https://research.yahoo.com/)
