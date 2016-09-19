@@ -1,8 +1,8 @@
-# Ad-Rec（程序化广告-群体推荐系统）
+# awesome-Computational Advertising（计算广告，程序化广告）
 > ##先导参考
-> * 大数据，[链接](https://github.com/Tulongf/Big_Data_Resources)<br> 
-> * 推荐系统，[链接](https://github.com/Tulongf/Ad-Rec/)<br>
-> * 竞价广告，[链接](https://github.com/Tulongf/rtb-papers)<br>
+> * 大数据[Link](https://github.com/Tulongf/Big_Data_Resources)<br> 
+> * 推荐系统[Link](https://github.com/Tulongf/Ad-Rec/)<br>
+> * 竞价广告[Link](https://github.com/Tulongf/rtb-papers)<br>
 
 ##知识脉络
 一、交叉领域（研究问题）<br>
@@ -27,23 +27,23 @@
 
 
 ##视频教程
-（1）《计算广告学》，刘鹏，[地址](http://study.163.com/course/introduction.htm?courseId=321007#/courseDetail)<br>
-（2）Stanford – Introduction to Computational Advertising，[地址](http://web.stanford.edu/class/msande239/)<br>
-（3）秒针系统2013在人大开过一门计算广告学的课 RUC DB-IIR, [地址](http://iir.ruc.edu.cn/courses/ca2013.jsp)<br>
-（4）UCSC-Introduction to Computational Advertising，[地址](https://classes.soe.ucsc.edu/ism293/Spring09/index_archivos/Page456.html)<br>
+（1）《计算广告学》，刘鹏[Link](http://study.163.com/course/introduction.htm?courseId=321007#/courseDetail)<br>
+（2）Stanford – Introduction to Computational Advertising[Link](http://web.stanford.edu/class/msande239/)<br>
+（3）秒针系统2013在人大开过一门计算广告学的课 RUC DB-IIR[Link](http://iir.ruc.edu.cn/courses/ca2013.jsp)<br>
+（4）UCSC-Introduction to Computational Advertising，[Link](https://classes.soe.ucsc.edu/ism293/Spring09/index_archivos/Page456.html)<br>
 
 
 ##Booklist
 
 
 ##业界大牛&知名博客
- * 清华大学-靳晓明， [地址](http://www.tsinghua.edu.cn/publish/soft/3641/2010/20101214205115366908394/20101214205115366908394_.html)
- * Yahoo! Research-Andrei Broder， [链接](#)
- * Yahoo! Research-Vanja Josifovski，[链接](#)
+ * 清华大学-靳晓明 [Link](http://www.tsinghua.edu.cn/publish/soft/3641/2010/20101214205115366908394/20101214205115366908394_.html)
+ * Yahoo! Research-Andrei Broder[Link](#)
+ * Yahoo! Research-Vanja Josifovski[Link](#)
 
 ##重要机构&实验室
-* Yahoo! Labs，[地址] (https://research.yahoo.com/)
-* Google Adense ,[地址](https://adsense.googleblog.com/ )
+* Yahoo! Labs[Link] (https://research.yahoo.com/)
+* Google Adense [Link](https://adsense.googleblog.com/ )
 
 
 ##Conference & Journal
@@ -55,9 +55,9 @@
   * WWW
   * ICDM
 * Advertising
-  * ADKDD,[地址](http://www.adkdd.com/)
-  * PAKDD ,[地址](http://www.adkdd.com/)
-  * ECML-PKDD,[地址](http://www.adkdd.com/)
+  * ADKDD[Link](http://www.adkdd.com/)
+  * PAKDD [Link](http://www.adkdd.com/)
+  * ECML-PKDD[Link](http://www.adkdd.com/)
 
 ##Paperlist
  * [1] ADKDD 2014 Best paper
