@@ -58,7 +58,7 @@ If any authors do not want their paper to be listed here, please feel free to co
  * [adexchanger广告技术流](http://www.adexchanger.cn/)
  * [RTB China 中国实时竞价广告资讯网](http://www.rtbchina.com/)
  * [牛国柱](http://www.iamniu.com/)
- 
+ * [中国程序化购买广告解析：RTB/DSP/Ad Exchange/SSP/DMP](http://www.36dsj.com/archives/33705)
 ##相关数据集
 * Yahoo! Labs [Link] (https://research.yahoo.com/)
 * awesome-datascience data-sets  [Link](https://github.com/okulbilisim/awesome-datascience#data-sets)
