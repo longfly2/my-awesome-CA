@@ -1,4 +1,12 @@
 ## awesome-Computational Advertising<br> （计算广告，程序化广告）
+This is a collection of research and review papers of real-time bidding (RTB) based display advertising techniques. The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact Weinan Zhang.
+
+You are more than welcome to update this list! 
+If you find a paper about RTB techniques or review which is not listed here, please
+
+fork this repository, add it and merge back;
+or email Weinan Zhang (w.zhang@cs.ucl.ac.uk);
+or report an issue here.
 > ##先导参考
 > * 大数据[Link](https://github.com/Tulongf/Big_Data_Resources)<br> 
 > * 推荐系统[Link](https://github.com/Tulongf/Ad-Rec/)<br>
@@ -43,10 +51,14 @@
  * Yahoo! Research-Andrei Broder[Link](#)
  * Yahoo! Research-Vanja Josifovski[Link](#)
 
-##重要机构&实验室
+
+##重要研究机构&实验室
 * Yahoo! Labs[Link] (https://research.yahoo.com/)
 * Google Adense [Link](https://adsense.googleblog.com/ )
 
+## 重要网站&博文收藏
+ * [http://www.pmkankan.com/html/category/ad](http://www.pmkankan.com/html/category/ad)
+ 
 ##相关数据集
 * Yahoo! Labs [Link] (https://research.yahoo.com/)
 * awesome-datascience data-sets  [Link](https://github.com/okulbilisim/awesome-datascience#data-sets)
