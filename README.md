@@ -60,7 +60,8 @@ If any authors do not want their paper to be listed here, please feel free to co
  * [牛国柱](http://www.iamniu.com/)
  * [中国程序化购买广告解析：RTB/DSP/Ad Exchange/SSP/DMP](http://www.36dsj.com/archives/33705)
  * [程序化广告实战分享系列 - 程序化广告入门](https://zhuanlan.zhihu.com/p/22320816)
-
+ * [http://tutorial.computational-advertising.org/ ](http://tutorial.computational-advertising.org/)
+ 
 ##相关数据集
 * Yahoo! Labs [Link] (https://research.yahoo.com/)
 * awesome-datascience data-sets  [Link](https://github.com/okulbilisim/awesome-datascience#data-sets)
