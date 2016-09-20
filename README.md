@@ -58,6 +58,7 @@ If any authors do not want their paper to be listed here, please feel free to co
 ##重要研究机构&实验室
 * Yahoo! Labs[Link] (https://research.yahoo.com/)
 * google Adense adwords、admob [Link](https://adsense.googleblog.com/ )
+* [research.microsoft](https://www.microsoft.com/en-us/research/search/?q=computational+advertising&content-type=groups&sort_by=most-relevant)
 
 ## 重要网站&博文收藏
  * [PM看看-张国鹏Roc](http://www.pmkankan.com/html/category/ad)
