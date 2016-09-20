@@ -53,6 +53,7 @@ If any authors do not want their paper to be listed here, please feel free to co
  * Yahoo! Research-Vanja Josifovski[Link](#)
  * [Ram Akella ](https://akella.soe.ucsc.edu/home)
  * [http://yuan-shuai.info/](http://yuan-shuai.info/)
+ * [Jun Wang] (http://web4.cs.ucl.ac.uk/staff/jun.wang/blog/about/)
 
 ##重要研究机构&实验室
 * Yahoo! Labs[Link] (https://research.yahoo.com/)
