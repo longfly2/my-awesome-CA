@@ -83,6 +83,8 @@ If any authors do not want their paper to be listed here, please feel free to co
   * ADKDD[Link](http://www.adkdd.com/)
   * PAKDD [Link](http://www.adkdd.com/)
   * ECML-PKDD[Link](http://www.adkdd.com/)
+* WORKSHOP
+  * [Computational Advertising](https://www.samsi.info/programs-and-activities/other-workshops-and-post-doc-seminars/computational-advertising-august-6-17-2012/)
 
 ##Paperlist
  * [1] ADKDD 2014 Best paper
