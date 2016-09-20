@@ -35,8 +35,8 @@ If any authors do not want their paper to be listed here, please feel free to co
 （2）《计算广告学-百度》 [Link](http://www.chuanke.com/1905702-106933.html)<br>
 （3）Stanford – Introduction to Computational Advertising[Link](http://web.stanford.edu/class/msande239/)<br>
 （4）秒针系统2013在人大开过一门计算广告学的课 RUC DB-IIR[Link](http://iir.ruc.edu.cn/courses/ca2013.jsp)<br>
-（5）UCSC-Introduction to Computational Advertising，[Link](https://classes.soe.ucsc.edu/ism293/Spring09/index_archivos/Page456.html)<br>
-
+（5）UCSC-Introduction to Computational Advertising [Link](https://classes.soe.ucsc.edu/ism293/Spring09/index_archivos/Page456.html)<br>
+（6）CS 276 / LING 286: Information Retrieval and Web Search [Link](http://web.stanford.edu/class/cs276/)<br>
 
 ##Booklist
  * 《计算广告学》，刘鹏 [link](https://book.douban.com/subject/26596778/)
