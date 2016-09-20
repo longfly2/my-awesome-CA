@@ -38,6 +38,10 @@ If any authors do not want their paper to be listed here, please feel free to co
 （5）UCSC-Introduction to Computational Advertising [Link](https://classes.soe.ucsc.edu/ism293/Spring09/index_archivos/Page456.html)<br>
 （6）CS 276 / LING 286: Information Retrieval and Web Search [Link](http://web.stanford.edu/class/cs276/)<br>
 
+##PPT&Tutorial
+ * [berkeley.edu-DataMininglink](http://people.eecs.berkeley.edu/~jfc/DataMining/SP13/lecs/)
+
+
 ##Booklist
  * 《计算广告学》，刘鹏 [link](https://book.douban.com/subject/26596778/)
  * 《互联网广告算法和系统实践》 [link](#)
