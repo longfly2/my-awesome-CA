@@ -47,6 +47,7 @@ If any authors do not want their paper to be listed here, please feel free to co
  * 清华大学-靳晓明 [Link](http://www.tsinghua.edu.cn/publish/soft/3641/2010/20101214205115366908394/20101214205115366908394_.html)
  * Yahoo! Research-Andrei Broder[Link](#)
  * Yahoo! Research-Vanja Josifovski[Link](#)
+ * [Ram Akella ](https://akella.soe.ucsc.edu/home)
 
 
 ##重要研究机构&实验室
