@@ -82,8 +82,11 @@ If any authors do not want their paper to be listed here, please feel free to co
  * [百度在清华开设的《计算广告学》的课程知识脉络](http://yangxiaolei.me/2015/04/16/%E8%AE%A1%E7%AE%97%E5%B9%BF%E5%91%8A%E5%AD%A6/)
  * [360首席架构师刘鹏谈互联网变现与计算广告-2015/10/13](http://www.meihua.info/a/64853)
  * [ 计算广告学-RoadMap by ZhouYong/http://www.52caml.com/](http://www.52caml.com/)
+ * [机器学习算法常用指标总结](http://www.cnblogs.com/maybe2030/p/5375175.html)
  * [机器学习入门资源不完全汇总](http://ml.memect.com/article/machine-learning-guide.html#%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%BA%90)
  * [july-程序员面试、算法研究、编程艺术、红黑树、数据挖掘5大系列集锦](http://blog.csdn.net/v_july_v/article/details/6543438)
+ * [数据科学](http://www.cnblogs.com/vamei/p/3178534.html)
+
  
 ##相关数据集
 * Yahoo! Labs [Link] (https://research.yahoo.com/)
