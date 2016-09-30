@@ -88,6 +88,7 @@ If any authors do not want their paper to be listed here, please feel free to co
  * [机器学习入门资源不完全汇总](http://ml.memect.com/article/machine-learning-guide.html#%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%BA%90)
  * [july-程序员面试、算法研究、编程艺术、红黑树、数据挖掘5大系列集锦](http://blog.csdn.net/v_july_v/article/details/6543438)
  * [数据科学](http://www.cnblogs.com/vamei/p/3178534.html)
+ * [互联网广告与计算广告学入门](http://www.myttnn.com/ad/internet-advertisement/)
 
 
  
