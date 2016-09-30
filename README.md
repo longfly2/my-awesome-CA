@@ -70,7 +70,7 @@ If any authors do not want their paper to be listed here, please feel free to co
  * [http://tutorial.computational-advertising.org/ ](http://tutorial.computational-advertising.org/)
  * [百度在清华开设的《计算广告学》的课程知识脉络](http://yangxiaolei.me/2015/04/16/%E8%AE%A1%E7%AE%97%E5%B9%BF%E5%91%8A%E5%AD%A6/)
  * [360首席架构师刘鹏谈互联网变现与计算广告-2015/10/13](http://www.meihua.info/a/64853)
- 
+ * [ 计算广告学-RoadMap by ZhouYong/http://www.52caml.com/](http://www.52caml.com/)
  
 ##相关数据集
 * Yahoo! Labs [Link] (https://research.yahoo.com/)
