@@ -74,6 +74,7 @@ If any authors do not want their paper to be listed here, please feel free to co
  
  
 ## 博文收藏
+ * [计算广告学漫谈](http://www.lai18.com/content/1827493.html)
  * [PM看看-张国鹏Roc](http://www.pmkankan.com/html/category/ad)
  * [adexchanger广告技术流](http://www.adexchanger.cn/)
  * [RTB China 中国实时竞价广告资讯网](http://www.rtbchina.com/)
