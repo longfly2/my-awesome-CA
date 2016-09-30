@@ -66,6 +66,7 @@ If any authors do not want their paper to be listed here, please feel free to co
  * [互联最精彩的发现-简报](http://memect.com/)
  * [ 统计之都](http://cos.name/)
  * [我爱公开课-国内哪些高校老师在机器学习数据挖掘方面做的不错？](http://52opencourse.com/186642/%E5%9B%BD%E5%86%85%E5%93%AA%E4%BA%9B%E9%AB%98%E6%A0%A1%E8%80%81%E5%B8%88%E5%9C%A8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E6%96%B9%E9%9D%A2%E5%81%9A%E7%9A%84%E4%B8%8D%E9%94%99%EF%BC%9F)
+ * [我爱机器学习](https://www.52ml.net)
  
  
 ## 博文收藏
