@@ -78,7 +78,7 @@ If any authors do not want their paper to be listed here, please feel free to co
  * [PM看看-张国鹏Roc](http://www.pmkankan.com/html/category/ad)
  * [adexchanger广告技术流](http://www.adexchanger.cn/)
  * [RTB China 中国实时竞价广告资讯网](http://www.rtbchina.com/)
- * [牛国柱](http://www.iamniu.com/)
+ * [牛国柱-互联网精准广告定向技术](http://www.iamniu.com/)
  * [中国程序化购买广告解析：RTB/DSP/Ad Exchange/SSP/DMP](http://www.36dsj.com/archives/33705)
  * [程序化广告实战分享系列 - 程序化广告入门](https://zhuanlan.zhihu.com/p/22320816)
  * [http://tutorial.computational-advertising.org/ ](http://tutorial.computational-advertising.org/)
