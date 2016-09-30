@@ -63,6 +63,7 @@ If any authors do not want their paper to be listed here, please feel free to co
 ## 重要网站
  * [36大数据 www.36dsj.com](http://www.36dsj.com/)
  * [机器学习日报](http://ml.memect.com/)
+ * [互联最精彩的发现-简报](http://memect.com/)
  
 ## 博文收藏
  * [PM看看-张国鹏Roc](http://www.pmkankan.com/html/category/ad)
