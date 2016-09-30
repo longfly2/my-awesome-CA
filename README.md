@@ -63,12 +63,14 @@ If any authors do not want their paper to be listed here, please feel free to co
 ## 重要网站
  * [36大数据 www.36dsj.com](http://www.36dsj.com/)
  * [机器学习日报](http://ml.memect.com/)
- * [互联最精彩的发现-简报](http://memect.com/)
+ * [互联最精彩的发现-简报-传送门](http://memect.com/)
  * [ 统计之都](http://cos.name/)
  * [我爱公开课-国内哪些高校老师在机器学习数据挖掘方面做的不错？](http://52opencourse.com/186642/%E5%9B%BD%E5%86%85%E5%93%AA%E4%BA%9B%E9%AB%98%E6%A0%A1%E8%80%81%E5%B8%88%E5%9C%A8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E6%96%B9%E9%9D%A2%E5%81%9A%E7%9A%84%E4%B8%8D%E9%94%99%EF%BC%9F)
  * [我爱机器学习](https://www.52ml.net)
  * [我爱自然语言处理](http://www.52nlp.cn/)
  * [百度关键词搜索推荐系统maker](http://semocean.com/)
+ * [火光摇曳-计算广告学](http://www.flickering.cn/category/ads/)
+ * [刘鹏 老师的 计算广告学课程/人民大学的计算广告学讲义](http://dirtysalt.info/computational-advertising.html)
  
  
 ## 博文收藏
@@ -86,6 +88,7 @@ If any authors do not want their paper to be listed here, please feel free to co
  * [机器学习入门资源不完全汇总](http://ml.memect.com/article/machine-learning-guide.html#%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%BA%90)
  * [july-程序员面试、算法研究、编程艺术、红黑树、数据挖掘5大系列集锦](http://blog.csdn.net/v_july_v/article/details/6543438)
  * [数据科学](http://www.cnblogs.com/vamei/p/3178534.html)
+
 
  
 ##相关数据集
