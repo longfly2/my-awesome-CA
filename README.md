@@ -76,6 +76,7 @@ If any authors do not want their paper to be listed here, please feel free to co
  * [火光摇曳-计算广告学](http://www.flickering.cn/category/ads/)
  * [刘鹏 老师的 计算广告学课程/人民大学的计算广告学讲义](http://dirtysalt.info/computational-advertising.html)
  * [机器学习相关材料](http://zhangshengshan.github.io/2016/07/13/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9B%B8%E5%85%B3%E6%9D%90%E6%96%99/)
+ * [机器学习资源](http://qianjiye.de/2014/11/machine-learning-resources)
  
  
 ## 博文收藏
