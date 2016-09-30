@@ -68,6 +68,8 @@ If any authors do not want their paper to be listed here, please feel free to co
  * [中国程序化购买广告解析：RTB/DSP/Ad Exchange/SSP/DMP](http://www.36dsj.com/archives/33705)
  * [程序化广告实战分享系列 - 程序化广告入门](https://zhuanlan.zhihu.com/p/22320816)
  * [http://tutorial.computational-advertising.org/ ](http://tutorial.computational-advertising.org/)
+ * [百度在清华开设的《计算广告学》的课程知识脉络](http://yangxiaolei.me/2015/04/16/%E8%AE%A1%E7%AE%97%E5%B9%BF%E5%91%8A%E5%AD%A6/)
+ 
  
 ##相关数据集
 * Yahoo! Labs [Link] (https://research.yahoo.com/)
