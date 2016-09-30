@@ -15,9 +15,12 @@ If any authors do not want their paper to be listed here, please feel free to co
 （3）计算广告<br>
 （4）算法策略<br>
 二、数学知识（研究方法）<br>
-（1）微积分学<br>
-（2）矩阵理论<br>
-（3）概率论<br>
+（1）[微积分学](http://v.163.com/special/sp/singlevariablecalculus.html)<br>
+（2）[矩阵理论](http://open.163.com/special/opencourse/daishu.html)<br>
+（3）[概率论](http://open.163.com/special/Khan/probability.html)<br>
+（4）[最优化理论（重点凸优化理论）](http://stanford.edu/~boyd/cvxbook/)<br>
+（5）[时变函数与泛函分析 ](http://open.163.com/special/opencourse/fanhanfenxi.html)<br>
+（6）[随机过程Hyperlink: Stochastic Process MIT View the complete course: Discrete Stochastic Processes](#)<br>
 三、应用（应用场景）<br>
 （1）分布式系统，Hadoop<br>
 （2）内存计算，Spark<br>
