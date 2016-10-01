@@ -1,10 +1,14 @@
-1、数学基础
+##1、数学基础
 
-1、微积分 http://v.163.com/special/sp/singlevariablecalculus.html http://open.163.com/special/opencourse/multivariable.html
-2、线性代数 http://open.163.com/special/opencourse/daishu.html
-3、概率统计http://open.163.com/special/Khan/probability.html
-想要深入学习机器学习，需要具有扎实的数学基础（矩阵分析和概率统计是基础的理论）
-2、进阶版本数学基础课程
+### 1、微积分 http://v.163.com/special/sp/singlevariablecalculus.html http://open.163.com/special/opencourse/multivariable.html
+
+###2、线性代数 http://open.163.com/special/opencourse/daishu.html
+
+###3、概率统计http://open.163.com/special/Khan/probability.html
+
+###想要深入学习机器学习，需要具有扎实的数学基础（矩阵分析和概率统计是基础的理论）
+
+##2、进阶版本数学基础课程
 
 1、最优化理论（重点凸优化理论） http://stanford.edu/~boyd/cvxbook/ http://xiaoyc.com/duality-theory-for-optimization/#1-1-lagrangian
 2、时变函数与泛函分析 http://ocw.nctu.edu.tw/course_list.php?page=2&bgid=1&gid=1 http://open.163.com/special/opencourse/fanhanfenxi.html
