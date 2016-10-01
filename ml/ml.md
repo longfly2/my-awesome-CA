@@ -1,4 +1,4 @@
-> 这是一份机器学习教程的索引（索引的是教程资源），怕原作者删掉，于是备份一下，侵删<br>
+> 这是一份机器学习教程的索引（索引的是教程资源），侵删<br>
 
 #教程索引
 * [机器学习(Machine Learning)&深度学习(Deep Learning)资料(Chapter 1)](https://github.com/ty4z2008/Qix/blob/master/dl.md)
