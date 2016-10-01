@@ -101,6 +101,7 @@ If any authors do not want their paper to be listed here, please feel free to co
 
  
 ##相关数据集
+* [iPinYou Real-Time Bidding Dataset for Computational Advertising Research](http://data.computational-advertising.org/)
 * Yahoo! Labs [Link] (https://research.yahoo.com/)
 * [Yahoo dataset](ebscope.sandbox.yahoo.com/catalog.php?datatype=l)
 * awesome-datascience data-sets  [Link](https://github.com/okulbilisim/awesome-datascience#data-sets)
