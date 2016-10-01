@@ -10,6 +10,7 @@ If any authors do not want their paper to be listed here, please feel free to co
 * [机器学习和深度学习学习资料](http://suanfazu.com/t/ji-qi-xue-xi-he-shen-du-xue-xi-xue-xi-zi-liao/126)
 * [机器学习经典书籍](http://suanfazu.com/t/topic/15)
 * [机器学习入门资源不完全汇总](http://ml.memect.com/article/machine-learning-guide.html)
+* [机器学习路线图](http://www.ppvke.com/Blog/archives/36900)
 
 
 #论文会议
