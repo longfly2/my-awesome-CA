@@ -42,6 +42,7 @@ If any authors do not want their paper to be listed here, please feel free to co
 （6）[Univ. of Illinois at Urbana-Champaign](http://catalog.illinois.edu/courses-of-instruction/adv/)<br>
 （7）[UC Santa Cruz: ISM 293: Introduction to Computational Advertising](https://classes.soe.ucsc.edu/ism293/Spring09/)<br>
 （8）[UC Santa Cruz: Machine Learning for Computational Advertising](http://alex.smola.org/teaching/ucsc2009/)
+（9）[cs.washington.edu-CSE 454 - Advanced Internet Systems](https://courses.cs.washington.edu/courses/cse454/13wi/)
 
 ##PPT&Tutorial
  * [berkeley.edu-Data Mining link](http://people.eecs.berkeley.edu/~jfc/DataMining/SP13/lecs/)
