@@ -16,6 +16,9 @@ If any authors do not want their paper to be listed here, please feel free to co
 #重要研究机构以及实验室
 * [MRS-ML](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/)
 
+#博文收藏
+* [vividfree.github.io-推荐站点 技术方面](http://vividfree.github.io/2015/11/02/recommended-website-technology)
+
 #论文会议
 * [NIPS](https://papers.nips.cc/)
 * [ICML](http://jmlr.org/proceedings/)
