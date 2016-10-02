@@ -11,6 +11,7 @@ If any authors do not want their paper to be listed here, please feel free to co
 * [机器学习经典书籍](http://suanfazu.com/t/topic/15)
 * [机器学习入门资源不完全汇总](http://ml.memect.com/article/machine-learning-guide.html)
 * [机器学习路线图](http://www.ppvke.com/Blog/archives/36900)
+* [What are the best machine learning blogs or resources available?](https://www.quora.com/What-are-the-best-machine-learning-blogs-or-resources-available)
 
 #重要研究机构以及实验室
 * [MRS-ML](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/)
