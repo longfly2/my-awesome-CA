@@ -41,12 +41,12 @@ If any authors do not want their paper to be listed here, please feel free to co
 （5）[Stanford-CS 276 / LING 286: Information Retrieval and Web Search](http://web.stanford.edu/class/cs276/)<br>
 （6）[Univ. of Illinois at Urbana-Champaign](http://catalog.illinois.edu/courses-of-instruction/adv/)<br>
 （7）[UC Santa Cruz: ISM 293: Introduction to Computational Advertising](https://classes.soe.ucsc.edu/ism293/Spring09/)<br>
-（8）[UC Santa Cruz: Machine Learning for Computational Advertising](http://alex.smola.org/teaching/ucsc2009/)
-（9）[cs.washington.edu-CSE 454 - Advanced Internet Systems](https://courses.cs.washington.edu/courses/cse454/13wi/)
+（8）[UC Santa Cruz: Machine Learning for Computational Advertising](http://alex.smola.org/teaching/ucsc2009/)<br>
+（9）[cs.washington.edu-CSE 454 - Advanced Internet Systems](https://courses.cs.washington.edu/courses/cse454/13wi/)<br>
 
 ##PPT&Tutorial
- * [berkeley.edu-Data Mining link](http://people.eecs.berkeley.edu/~jfc/DataMining/SP13/lecs/)
-
+ * [berkeley.edu-Data Mining link](http://people.eecs.berkeley.edu/~jfc/DataMining/SP13/lecs/)<br>
+ * [Click Modeling in Search Advertising: Challenges & Solutions](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/JC_Mao_mload2010.pdf)<br>
 
 ##Booklist
  * [《计算广告学》，刘鹏](https://book.douban.com/subject/26596778/)
