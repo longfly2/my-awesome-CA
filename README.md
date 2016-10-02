@@ -62,6 +62,7 @@ If any authors do not want their paper to be listed here, please feel free to co
  * [Ram Akella ](https://akella.soe.ucsc.edu/home)
  * [http://yuan-shuai.info/](http://yuan-shuai.info/)
  * [Jun Wang] (http://web4.cs.ucl.ac.uk/staff/jun.wang/blog/about/)
+ * [哈尔滨工业大学-张海军](http://cs.hitsz.edu.cn/teachers/t1/1331623617.html)
 
 ##重要研究机构&实验室
 * [Yahoo! Labs] (https://research.yahoo.com/)
