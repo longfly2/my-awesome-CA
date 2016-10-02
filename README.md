@@ -38,8 +38,10 @@ If any authors do not want their paper to be listed here, please feel free to co
 （2）[《计算广告学-百度》](http://www.chuanke.com/1905702-106933.html)<br>
 （3）[Stanford – Introduction to Computational Advertising](http://web.stanford.edu/class/msande239/)<br>
 （4）[秒针系统2013人大计算广告学 RUC DB-IIR](http://iir.ruc.edu.cn/courses/ca2013.jsp)<br>
-（5）[UCSC-Introduction to Computational Advertising](https://classes.soe.ucsc.edu/ism293/Spring09/index_archivos/Page456.html)<br>
-（6）[CS 276 / LING 286: Information Retrieval and Web Search](http://web.stanford.edu/class/cs276/)<br>
+（5）[Stanford-CS 276 / LING 286: Information Retrieval and Web Search](http://web.stanford.edu/class/cs276/)<br>
+（6）[Univ. of Illinois at Urbana-Champaign](http://catalog.illinois.edu/courses-of-instruction/adv/)<br>
+（7）[UC Santa Cruz: ISM 293: Introduction to Computational Advertising](https://classes.soe.ucsc.edu/ism293/Spring09/)<br>
+（8）[UC Santa Cruz: Machine Learning for Computational Advertising](http://alex.smola.org/teaching/ucsc2009/)
 
 ##PPT&Tutorial
  * [berkeley.edu-Data Mining link](http://people.eecs.berkeley.edu/~jfc/DataMining/SP13/lecs/)
@@ -65,6 +67,7 @@ If any authors do not want their paper to be listed here, please feel free to co
 * [APEX-SJTU] (http://apex.sjtu.edu.cn/)
 
 ## 重要网站
+ * [computational-advertising.org](http://tutorial.computational-advertising.org/)
  * [36大数据 www.36dsj.com](http://www.36dsj.com/)
  * [机器学习日报](http://ml.memect.com/)
  * [互联最精彩的发现-简报-传送门](http://memect.com/)
