@@ -108,7 +108,7 @@ If any authors do not want their paper to be listed here, please feel free to co
  * [数据科学](http://www.cnblogs.com/vamei/p/3178534.html)
  * [互联网广告与计算广告学入门](http://www.myttnn.com/ad/internet-advertisement/)
  * [100 Best GitHub: Deep Learning] (http://meta-guide.com/software-meta-guide/100-best-github-deep-learning)
-
+ * [Index of Computational Advertising ] (http://luowei828.blog.163.com/blog/static/310312042013102995410307)
 
  
 ##相关数据集
