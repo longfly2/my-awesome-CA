@@ -14,5 +14,7 @@ If any authors do not want their paper to be listed here, please feel free to co
 
 
 #论文会议
+* [NIPS](https://papers.nips.cc/)
+* [ICML](http://jmlr.org/proceedings/)
 
 #论文导读
