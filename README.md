@@ -118,6 +118,7 @@ If any authors do not want their paper to be listed here, please feel free to co
 * [awesome-datascience data-sets](https://github.com/okulbilisim/awesome-datascience#data-sets)
 
 ##Conference & Journal
+* [Best Paper Awards in Computer Science (since 1996)](http://jeffhuang.com/best_paper_awards.html)
 * Data Analysis
   * RecSys
   * SIGIR
