@@ -46,9 +46,10 @@ If any authors do not want their paper to be listed here, please feel free to co
 （10）[Computational Advertising (2014 Fall)-华东师范大学/周敏奇](http://dase.ecnu.edu.cn/mqzhou/Teaching.html)<br>
 （11）[Statistical Learning (统计学习)Spring 2013 -北京大学/Jinzhu Jia and Yuan Yao](http://www.math.pku.edu.cn/teachers/yaoy/2013.spring/)<br>
 
-##PPT&Tutorial
+##Lecture/PPT/Tutorial
  * [berkeley.edu-Data Mining link](http://people.eecs.berkeley.edu/~jfc/DataMining/SP13/lecs/)<br>
  * [Click Modeling in Search Advertising: Challenges & Solutions](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/JC_Mao_mload2010.pdf)<br>
+ * [Machine Learning for Computational Advertising](http://bigeye.au.tsinghua.edu.cn/MLA12/program_files/MLA2012_%E5%88%98%E9%93%81%E5%B2%A9.pdf)
 
 ##Booklist
  * [《计算广告学》，刘鹏](https://book.douban.com/subject/26596778/)
