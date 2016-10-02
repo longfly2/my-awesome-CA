@@ -13,10 +13,20 @@ If any authors do not want their paper to be listed here, please feel free to co
 * [清华大眼睛实验室-张长水等](http://bigeye.au.tsinghua.edu.cn/)
 * [清华大眼睛实验室-张长水等](http://bigeye.au.tsinghua.edu.cn/)
 
+#国外知名实验室收藏
+
 #知名研究人员收藏
 
+
+#博文收藏
+* [机器学习/数据挖掘之中国大牛](http://blog.csdn.net/playoffs/article/details/7588597)
 
 #论文会议
 
 
+
+
 #论文导读
+
+
+
