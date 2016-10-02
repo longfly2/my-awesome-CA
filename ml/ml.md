@@ -12,6 +12,8 @@ If any authors do not want their paper to be listed here, please feel free to co
 * [机器学习入门资源不完全汇总](http://ml.memect.com/article/machine-learning-guide.html)
 * [机器学习路线图](http://www.ppvke.com/Blog/archives/36900)
 
+#重要研究机构以及实验室
+* [MRS-ML](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/)
 
 #论文会议
 * [NIPS](https://papers.nips.cc/)
