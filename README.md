@@ -4,9 +4,9 @@ If any authors do not want their paper to be listed here, please feel free to co
 >这是一个关于计算广告、程序化广告的资源收藏夹，主要用于研究学习的目的。如果下文中提到的人、论文或者其他信息，引起了您的不愉快，请联系我的邮箱`tulongf@sjtu.edu.cn`，我会真诚的致歉并删除相关条目；如果您有补充的，也可以fork这个文档或者发起issue,谢谢！<br> 
 
 ##先导参考
- * 大数据[Link](https://github.com/Tulongf/Big_Data_Resources)<br> 
- * 推荐系统[Link](https://github.com/Tulongf/Ad-Rec/)<br>
- * 竞价广告[fork Link](https://github.com/Tulongf/rtb-papers) [source Link](https://github.com/wnzhang/rtb-papers)<br>
+ * [大数据](https://github.com/Tulongf/Big_Data_Resources)<br> 
+ * [推荐系统](https://github.com/Tulongf/Ad-Rec/)<br>
+ * [竞价广告fork link](https://github.com/Tulongf/rtb-papers) [竞价广告 source link](https://github.com/wnzhang/rtb-papers)<br>
 
 ##知识脉络
 一、交叉领域（研究问题）<br>
@@ -34,33 +34,33 @@ If any authors do not want their paper to be listed here, please feel free to co
 
 
 ##视频教程
-（1）《计算广告学》，刘鹏[Link](http://study.163.com/course/introduction.htm?courseId=321007#/courseDetail)<br>
-（2）《计算广告学-百度》 [Link](http://www.chuanke.com/1905702-106933.html)<br>
-（3）Stanford – Introduction to Computational Advertising[Link](http://web.stanford.edu/class/msande239/)<br>
-（4）秒针系统2013在人大开过一门计算广告学的课 RUC DB-IIR[Link](http://iir.ruc.edu.cn/courses/ca2013.jsp)<br>
-（5）UCSC-Introduction to Computational Advertising [Link](https://classes.soe.ucsc.edu/ism293/Spring09/index_archivos/Page456.html)<br>
-（6）CS 276 / LING 286: Information Retrieval and Web Search [Link](http://web.stanford.edu/class/cs276/)<br>
+（1）[《计算广告学》，刘鹏](http://study.163.com/course/introduction.htm?courseId=321007#/courseDetail)<br>
+（2）[《计算广告学-百度》](http://www.chuanke.com/1905702-106933.html)<br>
+（3）[Stanford – Introduction to Computational Advertising](http://web.stanford.edu/class/msande239/)<br>
+（4）[秒针系统2013人大计算广告学 RUC DB-IIR](http://iir.ruc.edu.cn/courses/ca2013.jsp)<br>
+（5）[UCSC-Introduction to Computational Advertising](https://classes.soe.ucsc.edu/ism293/Spring09/index_archivos/Page456.html)<br>
+（6）[CS 276 / LING 286: Information Retrieval and Web Search](http://web.stanford.edu/class/cs276/)<br>
 
 ##PPT&Tutorial
- * [berkeley.edu-DataMininglink](http://people.eecs.berkeley.edu/~jfc/DataMining/SP13/lecs/)
+ * [berkeley.edu-Data Mining link](http://people.eecs.berkeley.edu/~jfc/DataMining/SP13/lecs/)
 
 
 ##Booklist
- * 《计算广告学》，刘鹏 [link](https://book.douban.com/subject/26596778/)
- * 《互联网广告算法和系统实践》 [link](#)
+ * [《计算广告学》，刘鹏](https://book.douban.com/subject/26596778/)
+ * [《互联网广告算法和系统实践》](#)
 
 ##知名博客
- * 上交，Weinan ZHANG [link](http://wnzhang.net/)
- * 清华大学-靳晓明 [Link](http://www.tsinghua.edu.cn/publish/soft/3641/2010/20101214205115366908394/20101214205115366908394_.html)
- * Yahoo! Research-Andrei Broder[Link](#)
- * Yahoo! Research-Vanja Josifovski[Link](#)
+ * [上交，Weinan ZHANG](http://wnzhang.net/)
+ * [清华大学-靳晓明](http://www.tsinghua.edu.cn/publish/soft/3641/2010/20101214205115366908394/20101214205115366908394_.html)
+ * [Yahoo! Research-Andrei Broder](#)
+ * [Yahoo! Research-Vanja Josifovski](#)
  * [Ram Akella ](https://akella.soe.ucsc.edu/home)
  * [http://yuan-shuai.info/](http://yuan-shuai.info/)
  * [Jun Wang] (http://web4.cs.ucl.ac.uk/staff/jun.wang/blog/about/)
 
 ##重要研究机构&实验室
-* Yahoo! Labs[Link] (https://research.yahoo.com/)
-* google Adense adwords、admob [Link](https://adsense.googleblog.com/ )
+* [Yahoo! Labs] (https://research.yahoo.com/)
+* [google Adense adwords、admob](https://adsense.googleblog.com/ )
 * [research.microsoft](https://www.microsoft.com/en-us/research/search/?q=computational+advertising&content-type=groups&sort_by=most-relevant)
 
 ## 重要网站
@@ -102,9 +102,9 @@ If any authors do not want their paper to be listed here, please feel free to co
  
 ##相关数据集
 * [iPinYou Real-Time Bidding Dataset for Computational Advertising Research](http://data.computational-advertising.org/)
-* Yahoo! Labs [Link] (https://research.yahoo.com/)
+* [Yahoo! Labs ] (https://research.yahoo.com/)
 * [Yahoo dataset](ebscope.sandbox.yahoo.com/catalog.php?datatype=l)
-* awesome-datascience data-sets  [Link](https://github.com/okulbilisim/awesome-datascience#data-sets)
+* [awesome-datascience data-sets](https://github.com/okulbilisim/awesome-datascience#data-sets)
 
 ##Conference & Journal
 * Data Analysis
@@ -115,9 +115,9 @@ If any authors do not want their paper to be listed here, please feel free to co
   * WWW
   * ICDM
 * Advertising
-  * ADKDD[Link](http://www.adkdd.com/)
-  * PAKDD [Link](http://www.adkdd.com/)
-  * ECML-PKDD[Link](http://www.adkdd.com/)
+  * [ADKDD](http://www.adkdd.com/)
+  * [PAKDD](http://www.adkdd.com/)
+  * [ECML-PKDD](http://www.adkdd.com/)
 * WORKSHOP
   * [Computational Advertising](https://www.samsi.info/programs-and-activities/other-workshops-and-post-doc-seminars/computational-advertising-august-6-17-2012/)
   * [Special Issue on Computational Advertising](https://www.computer.org/web/computingnow/iscfp1)
