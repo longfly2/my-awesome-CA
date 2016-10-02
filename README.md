@@ -9,6 +9,10 @@ If any authors do not want their paper to be listed here, please feel free to co
  * [推荐系统](https://github.com/Tulongf/Ad-Rec/)<br>
  * [竞价广告fork link](https://github.com/Tulongf/rtb-papers) [竞价广告 source link](https://github.com/wnzhang/rtb-papers)<br>
 
+##教程索引
+ * [What are some best sources to learn about programmatic advertising?](https://www.quora.com/What-are-some-best-sources-to-learn-about-programmatic-advertising)<br> 
+
+ 
 ##知识脉络
 一、交叉领域（研究问题）<br>
 （1）推荐系统，群体推荐<br>
