@@ -62,6 +62,7 @@ If any authors do not want their paper to be listed here, please feel free to co
 * [Yahoo! Labs] (https://research.yahoo.com/)
 * [google Adense adwords、admob](https://adsense.googleblog.com/ )
 * [research.microsoft](https://www.microsoft.com/en-us/research/search/?q=computational+advertising&content-type=groups&sort_by=most-relevant)
+* [APEX-SJTU] (http://apex.sjtu.edu.cn/)
 
 ## 重要网站
  * [36大数据 www.36dsj.com](http://www.36dsj.com/)
