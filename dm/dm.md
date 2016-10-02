@@ -11,12 +11,11 @@ If any authors do not want their paper to be listed here, please feel free to co
 * [上海交通大学BCMI实验室-张志华等](http://bcmi.sjtu.edu.cn/)
 * [清华bigml实验室-张钹/朱军等](http://bcmi.sjtu.edu.cn/)
 * [清华大眼睛实验室-张长水等](http://bigeye.au.tsinghua.edu.cn/)
-* [清华大眼睛实验室-张长水等](http://bigeye.au.tsinghua.edu.cn/)
 
 #国外知名实验室收藏
 
-#知名研究人员收藏
-
+#国内知名研究人员收藏
+* [Arnetminer作者-清华唐杰等](http://keg.cs.tsinghua.edu.cn/jietang/)
 
 #博文收藏
 * [机器学习/数据挖掘之中国大牛](http://blog.csdn.net/playoffs/article/details/7588597)
