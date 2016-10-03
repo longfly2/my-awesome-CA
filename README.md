@@ -50,6 +50,7 @@ If any authors do not want their paper to be listed here, please feel free to co
 （9）[cs.washington.edu-CSE 454 - Advanced Internet Systems](https://courses.cs.washington.edu/courses/cse454/13wi/)<br>
 （10）[Computational Advertising (2014 Fall)-华东师范大学/周敏奇](http://dase.ecnu.edu.cn/mqzhou/Teaching.html)<br>
 （11）[Statistical Learning (统计学习)Spring 2013 -北京大学/Jinzhu Jia and Yuan Yao](http://www.math.pku.edu.cn/teachers/yaoy/2013.spring/)<br>
+（12）[复旦大学《计算新闻传播学》课程](https://github.com/computational-class/cjc2016)<br>
 
 ##Lecture/PPT/Tutorial
  * [berkeley.edu-Data Mining link](http://people.eecs.berkeley.edu/~jfc/DataMining/SP13/lecs/)<br>
@@ -92,7 +93,7 @@ If any authors do not want their paper to be listed here, please feel free to co
  * [机器学习相关材料](http://zhangshengshan.github.io/2016/07/13/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9B%B8%E5%85%B3%E6%9D%90%E6%96%99/)
  * [机器学习资源](http://qianjiye.de/2014/11/machine-learning-resources)
  * [http://www.kdnuggets.com/](http://www.kdnuggets.com/)
- 
+ * [计算传播网](http://computational-communication.com/)  [github-link](https://github.com/computational-class)
  
 ## 博文收藏
  * [计算广告学漫谈](http://www.lai18.com/content/1827493.html)
