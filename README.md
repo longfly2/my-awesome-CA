@@ -93,7 +93,7 @@ If any authors do not want their paper to be listed here, please feel free to co
  * [机器学习相关材料](http://zhangshengshan.github.io/2016/07/13/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9B%B8%E5%85%B3%E6%9D%90%E6%96%99/)
  * [机器学习资源](http://qianjiye.de/2014/11/machine-learning-resources)
  * [http://www.kdnuggets.com/](http://www.kdnuggets.com/)
- * [计算传播网](http://computational-communication.com/)  [github-link](https://github.com/computational-class)
+ * [计算传播网](http://computational-communication.com/) / [github-link](https://github.com/computational-class)
  
 ## 博文收藏
  * [计算广告学漫谈](http://www.lai18.com/content/1827493.html)
