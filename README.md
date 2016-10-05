@@ -20,6 +20,9 @@ If any authors do not want their paper to be listed here, please feel free to co
 （3）计算广告<br>
 （4）算法策略<br>
 二、数学知识（研究方法）<br>
+
+>推荐：[The Mathematics of Machine Learning](https://www.52ml.net/18627.html)
+
 （1）[微积分学](http://v.163.com/special/sp/singlevariablecalculus.html)<br>
 （2）[矩阵理论](http://open.163.com/special/opencourse/daishu.html)<br>
 （3）[概率论](http://open.163.com/special/Khan/probability.html)<br>
