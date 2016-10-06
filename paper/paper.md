@@ -19,6 +19,7 @@ If any authors do not want their paper to be listed here, please feel free to co
 # （3）Audience Targeting 
 
 # （4）User attribute
+* [Identifying a Discussion Topic Based on User Interest Information](https://scholar.google.com/citations?hl=en&user=IT-vb_kAAAAJ&sortby=pubdate&view_op=list_works&citft=1&email_for_op=Tulongf%40gmail.com&gmla=AJsN-F7tr9PWCMjFaItJum4ePRW-SXx3xHrQI0h8vPx3XuukfDnl9As8Q-cC913XAUMrj1dlh6sZXN14Ls11wbI4PBMsT5i_XagXcep1sIXvVqbqkZ5Snl1U2ah-lcK4vWAFLXvgCS1m_HxY-A-zIsVNDmIHTqvtAvJHv8pCARtaFK1WBJ2NWCQPoMq-e9_htyhMcDZXOLu7AjSLryjaeJqTO6kgU00z6Yv0JVQxv9q4uxsHgKkZXy4)
 
 # （5）recommener
 
