@@ -12,15 +12,23 @@ If any authors do not want their paper to be listed here, please feel free to co
 * [机器学习入门资源不完全汇总](http://ml.memect.com/article/machine-learning-guide.html)
 * [机器学习路线图](http://www.ppvke.com/Blog/archives/36900)
 * [What are the best machine learning blogs or resources available?](https://www.quora.com/What-are-the-best-machine-learning-blogs-or-resources-available)
-* [ 机器学习---学习首页](http://blog.csdn.net/alive2012/article/details/48174247)
+* [机器学习---学习首页](http://blog.csdn.net/alive2012/article/details/48174247)
+* [《机器学习&&深度学习》 视频课程资源百度云下载](http://suanfazu.com/t/topic/14191)
+* [机器学习和深度学习学习资料](http://suanfazu.com/t/topic/14191)
+* [机器学习经典书籍](http://suanfazu.com/t/topic/15)
 
 #重要研究机构以及实验室
 * [MRS-ML](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/)
+
+#博客
+* [国外机器学习的Blog推荐](http://suanfazu.com/t/guo-wai-ji-qi-xue-xi-de-blogtui-jian/26)
 
 #博文收藏
 * [vividfree.github.io-推荐站点 技术方面](http://vividfree.github.io/2015/11/02/recommended-website-technology)
 
 #论文会议
+* [计算机会议最佳论文整理](http://suanfazu.com/t/ji-suan-ji-hui-yi-zui-jia-lun-wen-zheng-li/138/1)
+* [机器学习经典论文/survey合集](http://suanfazu.com/t/ji-qi-xue-xi-jing-dian-lun-wen-slash-surveyhe-ji/14)
 * [NIPS](https://papers.nips.cc/)
 * [ICML](http://jmlr.org/proceedings/)
 
