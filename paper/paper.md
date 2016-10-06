@@ -12,17 +12,15 @@ If any authors do not want their paper to be listed here, please feel free to co
 * User attribute
 * recommener 
 
-***
+# （1）RTB
 
-# RTB
+# （2）CTR
 
-# CTR
+# （3）Audience Targeting 
 
-# Audience Targeting 
+# （4）User attribute
 
-# User attribute
-
-# recommener
+# （5）recommener
 
 # 论文集合
 * [计算机会议最佳论文整理](http://suanfazu.com/t/ji-suan-ji-hui-yi-zui-jia-lun-wen-zheng-li/138/1)
