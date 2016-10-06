@@ -12,6 +12,7 @@ If any authors do not want their paper to be listed here, please feel free to co
 * User attribute
 * recommener 
 
+## 主要议题分类
 ### （1）RTB
 
 ### （2）CTR
@@ -23,16 +24,16 @@ If any authors do not want their paper to be listed here, please feel free to co
 
 ### （5）recommender
 
-### 论文集合
+## 论文集合
 * [计算机会议最佳论文整理](http://suanfazu.com/t/ji-suan-ji-hui-yi-zui-jia-lun-wen-zheng-li/138/1)
 * [机器学习经典论文/survey合集](http://suanfazu.com/t/ji-qi-xue-xi-jing-dian-lun-wen-slash-surveyhe-ji/14)
 * [NIPS](https://papers.nips.cc/)
 * [ICML](http://jmlr.org/proceedings/)
 
-### 期刊会议论文网站
+## 期刊会议论文网站
 * [NIPS](https://papers.nips.cc/)
 * [ICML](http://jmlr.org/proceedings/)
 
-### 论文
+## 论文
 
 
