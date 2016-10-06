@@ -65,7 +65,7 @@ If any authors do not want their paper to be listed here, please feel free to co
  * [《互联网广告算法和系统实践》](#)
 
 ##知名博客
- * [上交，Weinan ZHANG](http://wnzhang.net/)
+ * [上交，Weinan ZHANG](http://wnzhang.net/) / [weibo](http://weibo.com/u/1735865350?is_hot=1)
  * [清华大学-靳晓明](http://www.tsinghua.edu.cn/publish/soft/3641/2010/20101214205115366908394/20101214205115366908394_.html)
  * [Yahoo! Research-Andrei Broder](#)
  * [Yahoo! Research-Vanja Josifovski](#)
