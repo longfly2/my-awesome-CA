@@ -17,6 +17,7 @@ If any authors do not want their paper to be listed here, please feel free to co
 * [机器学习和深度学习学习资料](http://suanfazu.com/t/topic/14191)
 * [机器学习经典书籍](http://suanfazu.com/t/topic/15)
 * [机器学习应补充哪些数学基础？希望推荐相关数学从入门到熟练书籍。](https://www.zhihu.com/question/24345119)
+* [不同深度的机器学习教程](http://mooc.guokr.com/post/645513/)
 
 #重要研究机构以及实验室
 * [MRS-ML](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/)
