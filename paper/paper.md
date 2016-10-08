@@ -13,7 +13,8 @@ If any authors do not want their paper to be listed here, please feel free to co
 * recommener 
 
 ## keywords
-`计算广告`  `在线广告` `流量分配`  `点击率预估`  `特征提取`  `广告网络管理`
+`计算广告`  `在线广告` `流量分配`  `点击率预估`  `特征提取`  `广告网络管理`  	`用户特征`    `文本挖掘`    `互联网访问日志`    `个性化服务`
+`群体推荐`
 
 ## 主要议题分类
 ### （1）RTB
