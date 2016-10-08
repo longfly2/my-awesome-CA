@@ -30,6 +30,42 @@ If any authors do not want their paper to be listed here, please feel free to co
 * Rendle S. Social network and click-through prediction with factorization machines[EB/OL] . (2012-08-08). https://kaggle2. blob. core. windows. net/competitions/kddcup2012/2748/media/Rendle. pdf.
 * Blei D M, Ng A Y, Jordan M I. Latent Dirichlet allocation[J] . Journal of Machine Learning Research, 2003, 3(4-5):993-1022.
 * Rendle S. Factorization machines[C] //Proc of the 10th IEEE International Conference on Data Mining. [S. l.] :IEEE Press, 2010:995-1000.
+* GABRILOVICH E.An Overview of Computational Advertising[R/OL].Yahoo Research.2008[2013-03-21]. http://research.yahoo.com/pub/2915.
+* AGARWAL D,CHAKRABARTI D.Statistical Challenges in Online Advertising[R/OL].Yahoo Research. 2008[2013-03-21].http://research.yahoo.com/ pub/2430.
+* GRAEPEL T,BORCHERT T,HERBRICH R,et al.Probabilistic Machine Learning in Computational Advertising [R/OL].Microsoft Research,2009[2013-03-2l].http://research,microsoft.com/en-us/um/beijing/events/ mload-2010.
+* DID-IT,ENQUIRO,EYETOOLS.Eye Tracking Study[R/OL].2007[2013-03-21].http://www.enquire. com/ eye-tracking-pr.asp.
+* AGICHTEIN E,BRILL E,DUMAIS S.Improving web search ranking by incorporating user behavior information [C]//Proc 29th SIGIR,2006:19-26.
+* JOACHIMS T.Optimizing search engines using clickthrough data[C]//Proc KDD,2002.
+* JOACHIMS T,GRANKA L,PAN B,et al.Accurately interpreting clickthrough data as implicit feedback[C]// Proc SIGIR,2005.
+* GRANKA L A,JOACHIMS T,GAY G.Eye-tracking analysis of user behavior in www search[C]//Proc SIGIR' 04,2004.
+* ZHANG V,JONES R.Comparing click logs and editorial labels for training query rewriting[C]//Query Log Analysis: Social And Technological Challenges.Banff:WWW07,2007.
+* RICHARDSON M,DOMINOWSKA E,RAGNO R.Predicting Clicks:Estimating the Click-Through Rate for New Ads[C]//Banff:WWW'07,2007.
+* DUPRET G E,PIWOWARSKI B.A user browsing model to predict search engine click data from past observations. [C]//SIGIR'08,2008.
+* CHAPELLE O,ZHANG Y.A dynamic Bayesian network click model for web search ranking[C]//WWW09, 2009.
+* GUO F,LIU C,KANNAN A,et al.Click chain model in web search[C]//WWW'09,2009.
+* LIU C,GUO F,FALOUTSOS C.Bbm:Bayesian browsing model from petabyte-scale data[C]//KDD'09,2009.
+* ZHU Z A,CHEN W,MINKA T,et al.A novel click model and its applications to online advertising[C]//WSDM'10, 2010.
+* DUPRET G,LIAO C.A model to estimate intrinsic document relevance from the clickthrough logs of a web search engine[C]//WSDM'10,2010.
+* BECKER H,MEEK C,CHICKERING D M.Modeling contextual factors of click rates[C]//AAAI'07,2007.
+* CHEN W Z,JI Z L,SHEN S,et al.A Whole Page Click Model to Better Interpret Search Engine Click Data [C]//AAAI'11,2011.
+* CHAKRABARTI D,AGARWAL D,JOSIFOVSKI V.Contextual Advertising by Combining Relevance with Click Feedback[C]//WWW'08,2008.
+* GRAEPEL T,CANDELA J Q,BORCHERT T,et al.Web-Scale Bayesian Click-Through Rate Prediction for Sponsored Search Advertising in Microsoft's Bing Search Engine[C]//ICML'10,2010.
+* M Regelson,D C.Fain.Predicting Click Through Rate Using Keyword Clusters[C]//EC06,2006.
+* DEMBCZYNSKI K,KOTLOWSKI W,WEISS D.Predicting Ads' ClickThrough Rate with Decision Rules[C]// WWW'08,2008.
+* WANG X,LI W,CUI Y,et al.Click Through Rate Estimation for Rare Events in Online Advertising[C/OL]// Online Multimedia Advertising:Techniques and Technologies,2011,Chapter l[2013-03-2l].http://labs.yahoo. com/ node/434.
+* AGARWAL D,BRODER A Z,CHAKRABARTI D.et al.Estimating rates of rare events at multiple resolutions [C]//KDD'07.2007.
+* AGARWAL D,AGRAWAL R,KHANNA R,et al.Estimating rates of rare events with multiple hierarchies through scalable log-linear models[C]//KDD'10,2010.
+* AGARWAL D,CHEN B C,ELANGO P.Spatio-Temporal Models for Estimating Click through Rate[C]// WWW'09,2009.
+* YAN J,LIU N,WANG G,et al.How much can Behavioral Targeting Help Online Advertising?[C]//WWW 09,2009.
+* AGARWAL D,CHEN B-C,ELANGO P,et al.Click shaping to optimize multiple objectives[C]//KDD'11, 2011.
+* SHEN S,HU B,CHEN W Z,et al.Personalized click model through collaborative filtering[C]//WSDM'12, 2012.
+* CHEN W Z,WANG D,ZHANG Y C,et al.A noise-aware click model for web search[C]//WSDM'12,2012.
+* HU B,ZHANG Y C,CHEN W Z,et al.Characterizing search intent diversity into click models[C]//WWW'11, 2011.
+* ASHKAN A,CLARKE C L A,AGICHTEIN E,et al.Estimating Ad Clickthrough Rate through Query Intent Analysis[C]//WI-IAT'09,2009.
+* XIONG C,WANG T,DING W,et al.Relation Click prediction for sponsored search[C]//WSDM'12,2012.
+* GOLLAPUDI S,PANIGRAHY R,GOLDSZMIDT M.Inferring Clickthrough Rates on Ads from Click Behavior on Search Results[C]//WSDM'11,2011.
+* TENCEN T.KDD CUP[EB/OL].2012[2013-03-2l].http://www.kddcup2012.org/c/kddcup2012-track2.
+* IMMORLICA N,JAIN K,MAHDIAN M.et al.Click Fraud Resistant Methods for Learning[C]//WINE'05, 2005.
 
 ### （3）Audience Targeting 
 
