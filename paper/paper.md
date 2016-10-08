@@ -23,6 +23,7 @@ If any authors do not want their paper to be listed here, please feel free to co
 * 陈 余 贾宁波. 告点击率预估技术综述. 浙江理工大学学报 33(6), pp. 851-857. 2015.
 * 张志强 周永 谢晓芹 潘海为. 基于特征学习的广告点击率预估技术研究. 计算机学报 39(4), pp. 780-794. 2016.
 * 朱志北 李斌 刘学军 胡平. 基于lda的互联网广告点击率预测研究. 计算机应用研究 33(4), pp. 979-982. 2016.
+* 岳昆 王朝禄 朱运磊 武浩 刘惟一. 基于概率图模型的互联网广告点击率预测. 华东师范大学学报：自然科学版 (3), pp. 15-25. 2013.
 * 《计算广告：以数据为核心的Web综合应用》[J].计算机学报,2011(10).
 * Guo Fan, Liu Chao, Kannan A, et al. Click chain model in Web search[C] //Proc of the 18th International World Wide Web Confe-rence. New York:ACM Press, 2009:11-20.
 * Srikant R, Basu S, Wang Ni, et al. User browsing models:relevance versus examination[C] //Proc of the 16th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. New York:ACM Press, 2010:223-232.
