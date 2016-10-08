@@ -19,6 +19,17 @@ If any authors do not want their paper to be listed here, please feel free to co
 ### （1）RTB
 
 ### （2）CTR
+* 朱志北 李斌 刘学军 胡平. 基于lda的互联网广告点击率预测研究. 计算机应用研究 33(4), pp. 979-982. 2016.
+* 《计算广告：以数据为核心的Web综合应用》[J].计算机学报,2011(10).
+* Guo Fan, Liu Chao, Kannan A, et al. Click chain model in Web search[C] //Proc of the 18th International World Wide Web Confe-rence. New York:ACM Press, 2009:11-20.
+* Srikant R, Basu S, Wang Ni, et al. User browsing models:relevance versus examination[C] //Proc of the 16th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. New York:ACM Press, 2010:223-232.
+* Wang Xuerui, Li Wei, Cui Ying, et al. Click-through rate estimation for rare events in online advertising[EB/OL] . (2011-10-27). http://www. cs. cmu. edu/-xuerui/papers/ctr. pdf.
+* Gollapudi S, Panigrahy R, Goldszmidt M. Inferring clickthrough rates on Ads from click behavior on search results[C] //Proc of Workshop on User Modeling for Web Applications, the 4th International Conferen-ce on Web Search and Web Data Mining. New York:ACM Press, 2011.
+* Shen Si, Hu Botao, Chen Weizhu, et al. Personalized click model through collaborative filtering[C] // Proc of the 5th ACM International Conference on Web Search and Data Mining. New York:ACM Press, 2012:323-332.
+* Trofimov I, Kornetova A, Topinskiy V. Using boosted trees for click-through rate prediction for sponsored search[C] //Proc of the 6th International Workshop on Data Mining for Online Advertising and Internet Economy. 2012:1-6.
+* Rendle S. Social network and click-through prediction with factorization machines[EB/OL] . (2012-08-08). https://kaggle2. blob. core. windows. net/competitions/kddcup2012/2748/media/Rendle. pdf.
+* Blei D M, Ng A Y, Jordan M I. Latent Dirichlet allocation[J] . Journal of Machine Learning Research, 2003, 3(4-5):993-1022.
+* Rendle S. Factorization machines[C] //Proc of the 10th IEEE International Conference on Data Mining. [S. l.] :IEEE Press, 2010:995-1000.
 
 ### （3）Audience Targeting 
 
