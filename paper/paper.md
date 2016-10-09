@@ -80,6 +80,7 @@ If any authors do not want their paper to be listed here, please feel free to co
 ### （5）recommender
 
 ## 论文集合
+* [中国计算机学会推荐国际学术会议和期刊目录](http://www.ccf.org.cn/sites/ccf/paiming.jsp)
 * [计算机会议最佳论文整理](http://suanfazu.com/t/ji-suan-ji-hui-yi-zui-jia-lun-wen-zheng-li/138/1)
 * [机器学习经典论文/survey合集](http://suanfazu.com/t/ji-qi-xue-xi-jing-dian-lun-wen-slash-surveyhe-ji/14)
 * [NIPS](https://papers.nips.cc/)
