@@ -21,7 +21,7 @@ If any authors do not want their paper to be listed here, please feel free to co
 
 #学习教程
 * [机器学习/Andrew Ng-coursera](https://www.coursera.org/learn/machine-learning)
-    * 
+    * [笔记：对线性回归，logistic回归和一般回归的认识](http://www.cnblogs.com/jerrylead/archive/2011/03/05/1971867.html)
 
 #重要研究机构以及实验室
 * [MRS-ML](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/)
