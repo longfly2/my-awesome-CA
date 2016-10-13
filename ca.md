@@ -119,6 +119,7 @@ If any authors do not want their paper to be listed here, please feel free to co
  * [Index of Computational Advertising ] (http://luowei828.blog.163.com/blog/static/310312042013102995410307)
  * [Koala++'s blog] (http://quweiprotoss.blog.163.com/)
  * [http://koalaquwei.ucoz.com/] (http://koalaquwei.ucoz.com/)
+ * [Facebook计算广告学因果推断的论文](http://www.kellogg.northwestern.edu/faculty/gordon_b/files/kellogg_fb_whitepaper.pdf)
  
 ##相关数据集
 * [iPinYou Real-Time Bidding Dataset for Computational Advertising Research](http://data.computational-advertising.org/)
