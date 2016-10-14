@@ -88,7 +88,7 @@ If any authors do not want their paper to be listed here, please feel free to co
 
 ## 期刊会议论文网站
 * User Attribute
-    *[ICWSM: The International AAAI Conference on Web and Social Media](http://www.icwsm.org/2017/index.php)
+  * [ICWSM: The International AAAI Conference on Web and Social Media](http://www.icwsm.org/2017/index.php)
 
 * collections
   * [NIPS](https://papers.nips.cc/)
