@@ -87,8 +87,12 @@ If any authors do not want their paper to be listed here, please feel free to co
 * [ICML](http://jmlr.org/proceedings/)
 
 ## 期刊会议论文网站
-* [NIPS](https://papers.nips.cc/)
-* [ICML](http://jmlr.org/proceedings/)
+* User Attribute
+    * [ICWSM: The International AAAI Conference on Web and Social Media](http://www.icwsm.org/2017/index.php)
+
+* collections
+  * [NIPS](https://papers.nips.cc/)
+  * [ICML](http://jmlr.org/proceedings/)
 
 ## 论文
 
