@@ -6,7 +6,7 @@ If any authors do not want their paper to be listed here, please feel free to co
 
 #资源列表
  * 程序化广告
-  * [相关会议期刊列表汇总](https://github.com/Tulongf/awesome-CA/blob/master/jclist.md)
+  * [相关会议期刊列表汇总](https://github.com/Tulongf/awesome-CA/blob/master/jclist.md)
   * [程序化广告资源](https://github.com/Tulongf/awesome-CA/blob/master/ca.md)<br> 
   * [程序化广告研究papers](https://github.com/Tulongf/awesome-CA/blob/master/paper/paper.md)<br>
   * [社交计算](https://github.com/Tulongf/awesome-CA/blob/master/sc.md)<br> 
