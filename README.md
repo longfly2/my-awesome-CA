@@ -6,6 +6,7 @@ If any authors do not want their paper to be listed here, please feel free to co
 
 #资源列表
  * [程序化广告资源](https://github.com/Tulongf/awesome-CA/blob/master/ca.md)<br> 
+ * [程序化广告资源](https://github.com/Tulongf/awesome-CA/blob/master/ca.md)<br> 
  * [程序化广告研究papers](https://github.com/Tulongf/awesome-CA/blob/master/paper/paper.md)<br>
  * [数据挖掘资源](https://github.com/Tulongf/awesome-CA/blob/master/dm/dm.md)<br>
  * [机器学习资源](https://github.com/Tulongf/awesome-CA/blob/master/ml/ml.md)<br>
