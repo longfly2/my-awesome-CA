@@ -5,7 +5,7 @@ If any authors do not want their paper to be listed here, please feel free to co
 >这是一个关于社交的资源收藏夹，主要用于研究学习的目的。如果下文中提到的人、论文或者其他信息，引起了您的不愉快，请联系我的邮箱`tulongf@sjtu.edu.cn`，我会真诚的致歉并删除相关条目；如果您有补充的，也可以fork这个文档或者发起issue,谢谢！<br> 
 
 ##教程索引
- * [What are some best sources to learn about programmatic advertising?](https://www.quora.com/What-are-some-best-sources-to-learn-about-programmatic-advertising)<br> 
+
 
  
 ##知识脉络
@@ -37,16 +37,16 @@ If any authors do not want their paper to be listed here, please feel free to co
 
 
 ##视频教程
-（1）[《计算广告学》，刘鹏](http://study.163.com/course/introduction.htm?courseId=321007#/courseDetail)<br>
+
 
 
 ##Lecture/PPT/Tutorial
 
 ##Booklist
- * [《计算广告学》，刘鹏](https://book.douban.com/subject/26596778/)
+
 
 ##知名博客
- * [Yahoo! Research-Andrei Broder](#)
+
 
 
 ##重要研究机构&实验室
@@ -59,22 +59,11 @@ If any authors do not want their paper to be listed here, please feel free to co
 ##相关数据集
 
 ##Conference & Journal
-* [Best Paper Awards in Computer Science (since 1996)](http://jeffhuang.com/best_paper_awards.html)
-* Data Analysis
-  * RecSys
-  * SIGIR
-  * KDD
-  * WSDM
-  * WWW
-  * ICDM
-* Advertising
-  * [ADKDD](http://www.adkdd.com/)
-  * [PAKDD](http://www.adkdd.com/)
-  * [ECML-PKDD](http://www.adkdd.com/)
-* WORKSHOP
-  * [Computational Advertising](https://www.samsi.info/programs-and-activities/other-workshops-and-post-doc-seminars/computational-advertising-august-6-17-2012/)
-  * [Special Issue on Computational Advertising](https://www.computer.org/web/computingnow/iscfp1)
-  * 
+* SNA
+  * [ICWSM](http://icwsm.org/2017/index.php)
+  * [ASONAM](http://asonam.cpsc.ucalgary.ca/2017/)
+  * [ISCI: International Conference on Social Computing](http://sbp-brims.org/2016/)
+
 
 ##Paperlist
  * [1] ADKDD 2014 Best paper
