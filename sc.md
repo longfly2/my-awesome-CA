@@ -60,8 +60,8 @@ If any authors do not want their paper to be listed here, please feel free to co
 
 ##Conference & Journal
 * SNA
-  * [ICWSM](http://icwsm.org/2017/index.php)
-  * [ASONAM](http://asonam.cpsc.ucalgary.ca/2017/)
+  * [ICWSM: The International AAAI Conference on Web and Social Media ](http://icwsm.org/2017/index.php)
+  * [ASONAM: The IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining](http://asonam.cpsc.ucalgary.ca/2017/)
   * [ISCI: International Conference on Social Computing](http://sbp-brims.org/2016/)
 
 
