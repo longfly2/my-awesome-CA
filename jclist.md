@@ -31,6 +31,7 @@ If any authors do not want their paper to be listed here, please feel free to co
     * [Location3: How Users Share and Respond to Location-Based Data on Social Networking Sites]()
     * [Social Capital on Facebook: Differentiating Uses and Users]()
     * [Find Me If You Can: Improving Geographical Prediction with Social and Spatial Proximity]()
+    * [ePluribus: Ethnicity on Social Networks]()
 
 ## 重要网站
  
