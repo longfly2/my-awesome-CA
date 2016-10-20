@@ -19,6 +19,7 @@ If any authors do not want their paper to be listed here, please feel free to co
     * [Social Networks and Housing Markets](https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xpf1/t39.2365-6/12624078_207306319618802_1918566020_n/People_and_Cookies_Imperfect_Treatment_Assignment_in_Online_Experiments.pdf)
     * [How Blind People Interact with Visual Content on Social Networking Services](https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xtf1/t39.2365-6/12057245_929261643776927_1326709393_n/How_Blind_People_Interact_with_Visual_Content_on_Social_Networking_Services.pdf)
     * [Social Networks and Labor Markets: How Strong Ties Relate to Job Transmission On Facebook’s Social Network](http://www.journals.uchicago.edu/doi/abs/10.1086/686225)
+    * [Visually Impaired Users on an Online Social Network](https://lookaside.fbsbx.com/file/accessibility_0107.pdf?token=AWzNfW3C889Gf-kkb5B14s6whZphgH0oUQUDYC2k6mtmwojVP3yzEOLIJN_ZbsxKruZEhV6_Jsq923Gtdui1_E0r3OGFyIqyQqI_v7jfwtM0dy3kfCTKM2p52nTEHyTFqzg)
 
 ## 重要网站
  
