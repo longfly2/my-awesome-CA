@@ -14,6 +14,9 @@ If any authors do not want their paper to be listed here, please feel free to co
 ## 博文收藏
 
 ##相关数据集
+##Conference & Journal-machine learning
+* [NIPS](https://papers.nips.cc/)
+* [ICML](http://jmlr.org/proceedings/)
 
 ##Conference & Journal-social network analysis
 * [ICWSM: The International AAAI Conference on Web and Social Media](http://icwsm.org/2017/index.php)
