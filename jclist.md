@@ -8,8 +8,8 @@ If any authors do not want their paper to be listed here, please feel free to co
 
 ##重要研究机构&实验室
 * [https://research.facebook.com/](https://research.facebook.com/about/)
-  * 计算广告
-   * [Practical Lessons from Predicting Clicks on Ads at Facebook]
+  * 计算广告
+   * [Practical Lessons from Predicting Clicks on Ads at Facebook]
 
 ## 重要网站
  
