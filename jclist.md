@@ -9,7 +9,7 @@ If any authors do not want their paper to be listed here, please feel free to co
 ##重要研究机构&实验室
 * [https://research.facebook.com/](https://research.facebook.com/about/)
   * 计算广告
-   * [Practical Lessons from Predicting Clicks on Ads at Facebook](https://lookaside.fbsbx.com/file/adkdd_2014_camera_ready_junfeng.pdf?token=AWwfeg_sRDpyCrG0vcfFp1KkvdFJN9ljTWTRpgdU1ChiGDEHLq-TvSufroP7wGyCnDaUGMEDM63UQHPtKpjCzQsf9rkMHO2IwHr1E826AMbUbwA1nvGvGMGy2OzijqbBdtE)
+    * [Practical Lessons from Predicting Clicks on Ads at Facebook](https://lookaside.fbsbx.com/file/adkdd_2014_camera_ready_junfeng.pdf?token=AWwfeg_sRDpyCrG0vcfFp1KkvdFJN9ljTWTRpgdU1ChiGDEHLq-TvSufroP7wGyCnDaUGMEDM63UQHPtKpjCzQsf9rkMHO2IwHr1E826AMbUbwA1nvGvGMGy2OzijqbBdtE)
 
 ## 重要网站
  
