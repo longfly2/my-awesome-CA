@@ -27,6 +27,10 @@ If any authors do not want their paper to be listed here, please feel free to co
     * [Gender, Topic, and Audience Response: An Analysis of User-Generated Content on Facebook](https://lookaside.fbsbx.com/file/chi2013-yichiaw-facebook%20gender%20topic%20and%20response-final-author.pdf?token=AWyJogpg-JbFTG7sG_C9dujcbnujbhyXhAQhpGV9S6yY-FPPABbok2OovIH9FpDCUgj8DL7KMhYeSXfN-uLXw6KO02CCVDNTipncDJrWMveMDFt2_lTQ-65L3HuQrLBnIvE)
     * [Arrival and Departure Dynamics in Social Networks](https://lookaside.fbsbx.com/file/wsdm60-wuPS1.pdf?token=AWz_JSsUj7zN-udMKEs04a-Hp4eFLZcbZv_jOxj0XUNrjhV2E0YnH8ZgwcvDK-38lOOq96qFxONtRf4FBXOyXFX50cjo7SSfd9uFnONgjC_s6c0Ah7Wp-Gd5VLZyTKvtFZc)
     * [The Role of Social Networks in Information Diffusion](https://lookaside.fbsbx.com/file/1201-2.4145.pdf?token=AWwylqv8j-0E5CASb_jlTBFbsL7ImBl0t2fJAzo5I_GeXRoUOqQB4VVYjboFJBw5KsuqUSgt4RoghrUlbI5jmpPP0S4G64edV2auYGeGOD2r3PN16atk2uaXk9iCGN2C-gY)
+    * [Center of Attention: How Facebook Users Allocate Attention across Friends]()
+    * [Location3: How Users Share and Respond to Location-Based Data on Social Networking Sites]()
+    * [Social Capital on Facebook: Differentiating Uses and Users]()
+    * [Find Me If You Can: Improving Geographical Prediction with Social and Spatial Proximity]()
 
 ## 重要网站
  
