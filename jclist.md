@@ -16,6 +16,7 @@ If any authors do not want their paper to be listed here, please feel free to co
   * SNA-社交网络
     * [Supervised Random Walks: Predicting and Recommending Links in Social Networks](https://lookaside.fbsbx.com/file/linkpred-wsdm11.pdf?token=AWyzN5Vwol7cslpidw06SoQhMkBfxo2DnoOYgZy1Zw7ZlTHx6COApE_PRxtqX97MNzBiVOmYKkZM9zf_kgXiHBZ_QmMhaJWJaA8No1Q_IdBByCAn7300PuF90NZQIQtxZgU)
     * [Learning Relevance from a Heterogeneous Social Network and Its Application in Online Targeting](https://lookaside.fbsbx.com/file/sigir11wsim.pdf?token=AWx74-wDKvpWI4Y_wkzcEsK-yb84_qy69wM6mFzk0kUGodxUMbZq4hUf90XsGsu_MTja-JmQDkx1L-P17GZdCTrw3KXtiwsG0vgUvwQEdIHnNfXuEpYOQ8Q-D4OKDkGpvAw)
+    * [Social Networks and Housing Markets](https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xpf1/t39.2365-6/12624078_207306319618802_1918566020_n/People_and_Cookies_Imperfect_Treatment_Assignment_in_Online_Experiments.pdf)
 
 ## 重要网站
  
