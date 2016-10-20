@@ -26,6 +26,7 @@ If any authors do not want their paper to be listed here, please feel free to co
     * [Quantifying the Invisible Audience in Social Networks](https://lookaside.fbsbx.com/file/audience_size.pdf?token=AWxU_geqHHjXudGsAHDLWvE_eP0R-YZ6N_nqedeRwaXDWxd5_Bwbzt18F1ScWJ9_EeEMGKorp7vtLjBDiUYlp0rvxxJfZ9p5zlLZSZQwAKnLc3I5V3dg5ztVlyVcPcwA_mk)
     * [Gender, Topic, and Audience Response: An Analysis of User-Generated Content on Facebook](https://lookaside.fbsbx.com/file/chi2013-yichiaw-facebook%20gender%20topic%20and%20response-final-author.pdf?token=AWyJogpg-JbFTG7sG_C9dujcbnujbhyXhAQhpGV9S6yY-FPPABbok2OovIH9FpDCUgj8DL7KMhYeSXfN-uLXw6KO02CCVDNTipncDJrWMveMDFt2_lTQ-65L3HuQrLBnIvE)
     * [Arrival and Departure Dynamics in Social Networks](https://lookaside.fbsbx.com/file/wsdm60-wuPS1.pdf?token=AWz_JSsUj7zN-udMKEs04a-Hp4eFLZcbZv_jOxj0XUNrjhV2E0YnH8ZgwcvDK-38lOOq96qFxONtRf4FBXOyXFX50cjo7SSfd9uFnONgjC_s6c0Ah7Wp-Gd5VLZyTKvtFZc)
+    * [The Role of Social Networks in Information Diffusion](https://lookaside.fbsbx.com/file/1201-2.4145.pdf?token=AWwylqv8j-0E5CASb_jlTBFbsL7ImBl0t2fJAzo5I_GeXRoUOqQB4VVYjboFJBw5KsuqUSgt4RoghrUlbI5jmpPP0S4G64edV2auYGeGOD2r3PN16atk2uaXk9iCGN2C-gY)
 
 ## 重要网站
  
