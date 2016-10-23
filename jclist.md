@@ -33,6 +33,7 @@ If any authors do not want their paper to be listed here, please feel free to co
     * [Find Me If You Can: Improving Geographical Prediction with Social and Spatial Proximity]()
     * [ePluribus: Ethnicity on Social Networks]()
     * [PANDA: Pose Aligned Networks for Deep Attribute Modeling]()
+* [http://research.google.com/](http://research.google.com/pubs/DataMiningandModeling.html)
 * [engineering.twitter.com/research](https://engineering.twitter.com/research/community)
 
 ## 重要网站
