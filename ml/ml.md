@@ -18,6 +18,7 @@ If any authors do not want their paper to be listed here, please feel free to co
 * [机器学习经典书籍](http://suanfazu.com/t/topic/15)
 * [机器学习应补充哪些数学基础？希望推荐相关数学从入门到熟练书籍。](https://www.zhihu.com/question/24345119)
 * [不同深度的机器学习教程](http://mooc.guokr.com/post/645513/)
+* [数据挖掘从入门到进阶，要看什么书？](http://idatamining.net/blog/?p=1732)
 
 #学习教程
 * [机器学习/Andrew Ng-coursera](https://www.coursera.org/learn/machine-learning)
