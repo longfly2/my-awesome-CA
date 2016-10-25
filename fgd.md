@@ -2,7 +2,7 @@
 ## SNA-FGD(Family Group Detection in Social Network Analysis)<br>
 
 > 参考：[SNA相关会议期刊列表](https://github.com/Tulongf/awesome-CA/blob/master/jclist.md)<br>
-搜索关键词：`Community detection` `Community detection survey` `Detecting family`  `relationship labeling`
+搜索关键词：`Community detection` `Community detection survey` `community discovery` `Detecting family`  `relationship labeling`
 
 ##0.若干大牛(关注一下，可以看看其课程之类的，先Mark)
 * [Mark Newman](http://www-personal.umich.edu/~mejn/)
@@ -70,6 +70,7 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
   * `综述（48页）：有向网络中的聚类和团体挖掘`<br>Malliaros F D, Vazirgiannis M. Clustering and community detection in directed networks: A survey[J]. Physics Reports, 2013, 533(4): 95-142.<br>
   * `综述（14页）：一共13种网络中挖掘团体的算法的对比`<br>Harenberg S, Bello G, Gjeltema L, et al. Community detection in large‐scale networks: a survey and empirical evaluation[J]. Wiley Interdisciplinary Reviews: Computational Statistics, 2014, 6(6): 426-439.
   * `综述（100页）：图模型中的团体挖掘`<br>Fortunato S. Community detection in graphs[J]. Physics reports, 2010, 486(3): 75-174.
+  * `综述（35页）`<br>Coscia M, Giannotti F, Pedreschi D. A classification for community discovery methods in complex networks[J]. Statistical Analysis and Data Mining, 2011, 4(5): 512-546.
 
 <br>
 ###3.3 Family Community/Group Detection on SNA综述性文章
