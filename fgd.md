@@ -80,6 +80,7 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
   * `综述（19页）`<br>Gregory S. Fuzzy overlapping communities in networks[J]. Journal of Statistical Mechanics: Theory and Experiment, 2011, 2011(02): P02017.
   * `综述（5页）`<br>Tamimi I, El Kamili M. Literature survey on dynamic community detection and models of social networks[C]//Wireless Networks and Mobile Communications (WINCOM), 2015 International Conference on. IEEE, 2015: 1-5.
   * `综述（12页）`<br>Kim J, Lee J G. Community detection in multi-layer graphs: A survey[J]. ACM SIGMOD Record, 2015, 44(3): 37-48.
+  * `综述（22页）`<br>Liu, Guoliang. “Community Structure and Detection in Complex Networks: a Survey.” (2012).
 
 <br>
 ###3.3 Family Community/Group Detection on SNA综述性文章
