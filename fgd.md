@@ -58,7 +58,8 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
 ###2.2 未整理列表
 
 ##3 相关的数据集
-名称 | 出去来源 | 链接 | 说明
+
+|名称 | 出去来源 | 链接 | 说明
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
