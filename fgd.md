@@ -61,7 +61,7 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
 ###3.3 Family Community/Group Detection on SNA综述性文章
 * `综述（40页）`<br>Papadopoulos S, Kompatsiaris Y, Vakali A, et al. Community detection in social media[J]. Data Mining and Knowledge Discovery, 2012, 24(3): 515-554.
 * `综述（137页）`<br>Tang L, Liu H. Community detection and mining in social media[J]. Synthesis Lectures on Data Mining and Knowledge Discovery, 2010, 2(1): 1-137.
-* Christakis N A, Fowler J H. The spread of obesity in a large social network over 32 years[J]. New England journal of medicine, 2007, 357(4): 370-379.
+* `综述（20页）`<br>GB/T 7714	Plantié M, Crampes M. Survey on social community detection[M]//Social media retrieval. Springer London, 2013: 65-85.
 
 ###3.4 Family Community/Group Detection on SNA论文分类梳理
 ####(1)如何得到用户特征（数据预处理类别：侧重于处理数据集，获取数据集，处理数据成可以分析的）
