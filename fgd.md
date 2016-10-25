@@ -3,11 +3,13 @@
 
 > 参考：[SNA相关会议期刊列表](https://github.com/Tulongf/awesome-CA/blob/master/jclist.md)<br>
 搜索关键词：`Community detection` `Community detection survey` `community discovery` `Detecting family`  `relationship labeling`
-
+<br>
 ##0.若干大牛(关注一下，可以看看其课程之类的，先Mark)
 * [Mark Newman](http://www-personal.umich.edu/~mejn/)
 * [Jure Leskovec](http://cs.stanford.edu/people/jure/)
 
+
+<br>
 ##1.若干会议的期刊论文梳理
 ###1.1 [ICWSM: The International AAAI Conference on Web and Social Media](http://icwsm.org/2017/index.php)
 #### 2016 topic相关梳理
@@ -71,12 +73,14 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
   * `综述（14页）：一共13种网络中挖掘团体的算法的对比`<br>Harenberg S, Bello G, Gjeltema L, et al. Community detection in large‐scale networks: a survey and empirical evaluation[J]. Wiley Interdisciplinary Reviews: Computational Statistics, 2014, 6(6): 426-439.
   * `综述（100页）：图模型中的团体挖掘`<br>Fortunato S. Community detection in graphs[J]. Physics reports, 2010, 486(3): 75-174.
   * `综述（35页）`<br>Coscia M, Giannotti F, Pedreschi D. A classification for community discovery methods in complex networks[J]. Statistical Analysis and Data Mining, 2011, 4(5): 512-546.
+  * `综述（7页）`<br>Allahverdyan A E, Ver Steeg G, Galstyan A. Community detection with and without prior information[J]. EPL (Europhysics Letters), 2010, 90(1): 18002.
 
 <br>
 ###3.3 Family Community/Group Detection on SNA综述性文章
 * `综述（40页）`<br>Papadopoulos S, Kompatsiaris Y, Vakali A, et al. Community detection in social media[J]. Data Mining and Knowledge Discovery, 2012, 24(3): 515-554.
 * `综述（137页）`<br>Tang L, Liu H. Community detection and mining in social media[J]. Synthesis Lectures on Data Mining and Knowledge Discovery, 2010, 2(1): 1-137.
 * `综述（20页）`<br>GB/T 7714	Plantié M, Crampes M. Survey on social community detection[M]//Social media retrieval. Springer London, 2013: 65-85.
+
 
 <br>
 ###3.4 Family Community/Group Detection on SNA论文分类梳理
