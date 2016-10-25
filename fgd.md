@@ -53,7 +53,7 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
 
 ###2.2 Community/Group Detection基础论文分类梳理
 * 一般Community Detection<br>
-  * `根据twitter的数据预测用户兴趣，如果给定一个广告、那么会分析出一个最佳的线下广告投放的区域`<br>Malliaros F D, Vazirgiannis M. Clustering and community detection in directed networks: A survey[J]. Physics Reports, 2013, 533(4): 95-142.<br>
+  * `综述：有向网络中的聚类和团体挖掘`<br>Malliaros F D, Vazirgiannis M. Clustering and community detection in directed networks: A survey[J]. Physics Reports, 2013, 533(4): 95-142.<br>
   * `facebook，设备跨屏打通`<br>Coey D, Bailey M. People and Cookies: Imperfect Treatment Assignment in Online Experiments[C]//Proceedings of the 25th International Conference on World Wide Web. International World Wide Web Conferences Steering Committee, 2016: 1103-1111.
 
 ###2.3 Family Community/Group Detection on SNA论文分类梳理
