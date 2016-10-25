@@ -59,5 +59,6 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
 
 ##3 相关的数据集
 名称 | 出去来源 | 链接 | 说明
+| ------------- |:-------------:| -----:|
 SBP-BRiMS每年会发布challenge, 并提供数据集，例如:[SBP-BRiMS2016 challenge](http://sbp-brims.org/2016/challenge/)
 * 从SBP-BRiMS[]
