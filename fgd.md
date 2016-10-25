@@ -2,7 +2,7 @@
 ## SNA-FGD(Family Group Detection in Social Network Analysis)<br>
 
 > 参考：[SNA相关会议期刊列表](https://github.com/Tulongf/awesome-CA/blob/master/jclist.md)<br>
-搜索关键词：`Community detection` `Community detection survey` `community discovery` `Detecting family`  `relationship labeling`
+搜索关键词：<br>`Community detection` `Community detection survey` `community discovery` `Detecting family`  `relationship labeling`
 <br>
 
 ##0.若干大牛(关注一下，可以看看其课程之类的，先Mark)
