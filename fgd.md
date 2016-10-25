@@ -86,7 +86,7 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
 * `综述（40页）`<br>Papadopoulos S, Kompatsiaris Y, Vakali A, et al. Community detection in social media[J]. Data Mining and Knowledge Discovery, 2012, 24(3): 515-554.
 * `综述（137页）`<br>Tang L, Liu H. Community detection and mining in social media[J]. Synthesis Lectures on Data Mining and Knowledge Discovery, 2010, 2(1): 1-137.
 * `综述（20页）`<br>GB/T 7714	Plantié M, Crampes M. Survey on social community detection[M]//Social media retrieval. Springer London, 2013: 65-85.
-
+* `综述（28页）`<br>Kayastha N, Niyato D, Wang P, et al. Applications, architectures, and protocol design issues for mobile social networks: A survey[J]. Proceedings of the IEEE, 2011, 99(12): 2130-2158.
 
 <br>
 ###3.4 Family Community/Group Detection on SNA论文分类梳理
