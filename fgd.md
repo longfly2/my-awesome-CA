@@ -9,13 +9,12 @@
 * 个人特征模型<br>
   * `年龄预测`<br>
 Zhang J, Hu X, Zhang Y, et al. Your Age Is No Secret: Inferring Microbloggers’ Ages via Content and Interaction Analysis[C]//Tenth International AAAI Conference on Web and Social Media. 2016.<br>
-
   * `给朋友关系标签`<br>
  Park J Y, Sohn Y, Moon S. Power of Earned Advertising on Social Network Services: A Case Study of Friend Tagging on Facebook[C]//Tenth International AAAI Conference on Web and Social Media. 2016.<br>
-[3] Silva L, Mondal M, Correa D, et al. Analyzing the Targets of Hate in Online Social Media[J]. arXiv preprint arXiv:1603.07709, 2016.<br>
+  * `理解仇恨讨厌的情绪`<br>Silva L, Mondal M, Correa D, et al. Analyzing the Targets of Hate in Online Social Media[J]. arXiv preprint arXiv:1603.07709, 2016.<br>
 [4] Malmi E, Weber I. You Are What Apps You Use: Demographic Prediction Based on User's Apps[J]. arXiv preprint arXiv:1603.00059, 2016.<br>
-[5] Hossain N, Hu T, Feizi R, et al. Precise Localization of Homes and Activities: Detecting Drinking-While-Tweeting Patterns in Communities[C]//Tenth International AAAI Conference on Web and Social Media. 2016.<br>
-[6]Jones I, Wang R, Han J, et al. Community Cores: Removing Size Bias from Community Detection[J]. 2015.<br>
+* `根据twitter的数据定位家庭位置和活动位置`<br>Hossain N, Hu T, Feizi R, et al. Precise Localization of Homes and Activities: Detecting Drinking-While-Tweeting Patterns in Communities[C]//Tenth International AAAI Conference on Web and Social Media. 2016.<br>
+* `理解仇恨讨厌的情绪`<br>Jones I, Wang R, Han J, et al. Community Cores: Removing Size Bias from Community Detection[J]. 2015.<br>
 
 * 社交推荐<br>
 [1]Celis L E, Krafft P M, Kobe N. Sequential Voting Promotes Collective Discovery in Social Recommendation Systems[J]. arXiv preprint arXiv:1603.04466, 2016.
