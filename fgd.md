@@ -50,7 +50,8 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
 
 <br>
 ###1.3 [ISCI: International Conference on Social Computing](http://sbp-brims.org/2016/)
-
+###1.4 [SOCIALCOM: The IEEE International Conference on Social Computing and Networking](http://tinman.cs.gsu.edu/~socialcom/index.html)
+###1.5 [CSCW: The ACM Conference on Computer-Supported Cooperative Work and Social Computing ](http://cscw.acm.org/2017/)
 
 <br><br>
 ##2.若干机构的期刊论文梳理
