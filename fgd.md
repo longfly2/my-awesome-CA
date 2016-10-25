@@ -59,11 +59,11 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
 
 ##3 相关的数据集<br>
 
-|名称 | 出去来源 | 链接 | 说明
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
+
 SBP-BRiMS每年会发布challenge, 并提供数据集，例如:[SBP-BRiMS2016 challenge](http://sbp-brims.org/2016/challenge/)
 * 从SBP-BRiMS[]
