@@ -74,6 +74,7 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
   * `综述（100页）：图模型中的团体挖掘`<br>Fortunato S. Community detection in graphs[J]. Physics reports, 2010, 486(3): 75-174.
   * `综述（35页）`<br>Coscia M, Giannotti F, Pedreschi D. A classification for community discovery methods in complex networks[J]. Statistical Analysis and Data Mining, 2011, 4(5): 512-546.
   * `综述（7页）`<br>Allahverdyan A E, Ver Steeg G, Galstyan A. Community detection with and without prior information[J]. EPL (Europhysics Letters), 2010, 90(1): 18002.
+  * `综述（27页）`<br>Paxton N C, Russell S, Moskowitz I S, et al. A Survey of Community Detection Algorithms Based On Analysis-Intent[M]//Cyber Warfare. Springer International Publishing, 2015: 237-263.
 
 <br>
 ###3.3 Family Community/Group Detection on SNA综述性文章
