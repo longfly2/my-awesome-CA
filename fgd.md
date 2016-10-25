@@ -26,6 +26,14 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
   * `根据twitter的数据预测用户兴趣，如果给定一个广告、那么会分析出一个最佳的线下广告投放的区域`<br>Anagnostopoulos A, Petroni F, Sorella M. Targeted Interest-Driven Advertising in Cities Using Twitter[C]//Tenth International AAAI Conference on Web and Social Media. 2016.<br>
   * `facebook，设备跨屏打通`<br>Coey D, Bailey M. People and Cookies: Imperfect Treatment Assignment in Online Experiments[C]//Proceedings of the 25th International Conference on World Wide Web. International World Wide Web Conferences Steering Committee, 2016: 1103-1111.
 
+#### 2015 topic相关梳理
+* `facebook，设备跨屏打通`<br>Chen J, Haber E, Kang R, et al. Making use of derived personality: The case of social media ad targeting[C]//Proceedings of the International AAAI Conference on Web and Social Media (ICWSM). 2015.<br>
+[2]Hu Y, Farnham S, Talamadupula K. Predicting user engagement on twitter with real-world events[C]//Proceedings of the International Conference on Weblogs and Social Media (ICWSM). AAAI. 2015.<br>
+[3]Zheng D, Hu T, You Q, et al. Towards lifestyle understanding: Predicting home and vacation locations from user’s online photo collections[C]//Proceedings of the 9th International AAAI Conference on Web and Social Media. 2015: 553-560.
+[4]Dong C, Jin H, Knijnenburg B P. Predicting privacy behavior on online social networks[C]//Proceedings of the AAAI Conference on Web and Social Media. 2015.
+[5]Rossi L, Williams M J, Stich C, et al. Privacy and the city: User identification and location semantics in location-based social networks[J]. arXiv preprint arXiv:1503.06499, 2015.
+[6]Carton S, Adar E, Park S, et al. Audience analysis for competing memes in social media[C]//Ninth International AAAI Conference on Web and Social Media. 2015.
+[7]Polonski V W, Hogan B. Assessing the Structural Correlates between Friendship Networks and Conversational Agency in Facebook Groups[C]//Ninth International AAAI Conference on Web and Social Media. 2015.
 
 ### [ASONAM: The IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining](http://sbp-brims.org/2016/acceptedpapers/)
 ###[ISCI: International Conference on Social Computing](http://sbp-brims.org/2016/)
