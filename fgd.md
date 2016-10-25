@@ -17,15 +17,15 @@ Zhang J, Hu X, Zhang Y, et al. Your Age Is No Secret: Inferring Microbloggers’
   * `理解仇恨讨厌的情绪`<br>Jones I, Wang R, Han J, et al. Community Cores: Removing Size Bias from Community Detection[J]. 2015.<br>
 
 * 社交推荐<br>
-[1]Celis L E, Krafft P M, Kobe N. Sequential Voting Promotes Collective Discovery in Social Recommendation Systems[J]. arXiv preprint arXiv:1603.04466, 2016.
+Celis L E, Krafft P M, Kobe N. Sequential Voting Promotes Collective Discovery in Social Recommendation Systems[J]. arXiv preprint arXiv:1603.04466, 2016.
 
 * 群体推荐<br>
-[1]Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C]//Tenth International AAAI Conference on Web and Social Media. 2016.
+Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C]//Tenth International AAAI Conference on Web and Social Media. 2016.
 
 * 计算广告<br>
-[1]Anagnostopoulos A, Petroni F, Sorella M. Targeted Interest-Driven Advertising in Cities Using Twitter[C]//Tenth International AAAI Conference on Web and Social Media. 2016.<br>
-[2]Coey D, Bailey M. People and Cookies: Imperfect Treatment Assignment in Online Experiments[C]//Proceedings of the 25th International Conference on World Wide Web. International World Wide Web Conferences Steering Committee, 2016: 1103-1111.
-facebook，设备跨屏打通
+  * `根据twitter的数据预测用户兴趣，如果给定一个广告、那么会分析出一个最佳的线下广告投放的区域`<br>Anagnostopoulos A, Petroni F, Sorella M. Targeted Interest-Driven Advertising in Cities Using Twitter[C]//Tenth International AAAI Conference on Web and Social Media. 2016.<br>
+  * `facebook，设备跨屏打通`<br>Coey D, Bailey M. People and Cookies: Imperfect Treatment Assignment in Online Experiments[C]//Proceedings of the 25th International Conference on World Wide Web. International World Wide Web Conferences Steering Committee, 2016: 1103-1111.
+
 
 ### [ASONAM: The IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining](http://sbp-brims.org/2016/acceptedpapers/)
 ###[ISCI: International Conference on Social Computing](http://sbp-brims.org/2016/)
