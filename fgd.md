@@ -2,6 +2,7 @@
 ## SNA-FGD(Family Group Detection in Social Network Analysis)<br>
 
 > 参考：[SNA相关会议期刊列表](https://github.com/Tulongf/awesome-CA/blob/master/jclist.md)
+搜索关键词：`Community detection` `Detecting family`  `relationship labeling`
 
 ##1.若干会议的期刊论文梳理
 ###1.1 [ICWSM: The International AAAI Conference on Web and Social Media](http://icwsm.org/2017/index.php)
@@ -37,3 +38,10 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
 
 ### [ASONAM: The IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining](http://sbp-brims.org/2016/acceptedpapers/)
 ###[ISCI: International Conference on Social Computing](http://sbp-brims.org/2016/)
+
+
+
+##2.论文list
+###论文分类梳理
+
+###未整理列表
