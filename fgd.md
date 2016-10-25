@@ -37,7 +37,7 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
 * `分析朋友间关系网络从三个方面影响着小群组团体`<br>Polonski V W, Hogan B. Assessing the Structural Correlates between Friendship Networks and Conversational Agency in Facebook Groups[C]//Ninth International AAAI Conference on Web and Social Media. 2015.
 
 ### [ASONAM: The IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining](http://sbp-brims.org/2016/acceptedpapers/)
-#### 2016 topic相关梳理
+#### 2016 topic相关梳理([全部的文章链接](http://sbp-brims.org/2016/acceptedpapers/))
 * `根据Twitter 140字的状态进行群体发现`<br>[Detecting communities by sentiment analysis of controversial topics](http://sbp-brims.org/2016/program/F_430pm.pdf)<br>
 
 ###[ISCI: International Conference on Social Computing](http://sbp-brims.org/2016/)
