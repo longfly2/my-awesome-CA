@@ -42,7 +42,7 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
 
 
 ##2.论文list
-###论文分类梳理
+###2.1论文分类梳理
 ####(1)如何得到用户特征（数据预处理类别：侧重于处理数据集，获取数据集，处理数据成可以分析的）
 ####(2)用户特征建模（如何对数据建模：根据数据生成关系标签）
 ####(3)用户间关系挖掘、群体发现（community/group detection 方法类别）
@@ -52,4 +52,4 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
 ####(4)应用优化、如何利用已经得到的结论优化某个场景的应用
 ####(5)评价指标一类
 
-###未整理列表
+###2.2 未整理列表
