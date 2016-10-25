@@ -8,7 +8,7 @@
 #### 2016 topic相关梳理
 * 个人特征模型<br>
 [1]Zhang J, Hu X, Zhang Y, et al. Your Age Is No Secret: Inferring Microbloggers’ Ages via Content and Interaction Analysis[C]//Tenth International AAAI Conference on Web and Social Media. 2016.<br>
-> 根据博客内容推断年龄
+`根据博客内容推断年龄`
 
 [2] Park J Y, Sohn Y, Moon S. Power of Earned Advertising on Social Network Services: A Case Study of Friend Tagging on Facebook[C]//Tenth International AAAI Conference on Web and Social Media. 2016.<br>
 [3] Silva L, Mondal M, Correa D, et al. Analyzing the Targets of Hate in Online Social Media[J]. arXiv preprint arXiv:1603.07709, 2016.<br>
