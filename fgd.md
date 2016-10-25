@@ -2,7 +2,7 @@
 ## SNA-FGD(Family Group Detection in Social Network Analysis)<br>
 
 > 参考：[SNA相关会议期刊列表](https://github.com/Tulongf/awesome-CA/blob/master/jclist.md)<br>
-搜索关键词：`Community detection` `Detecting family`  `relationship labeling`
+搜索关键词：`Community detection` `Community detection survey` `Detecting family`  `relationship labeling`
 
 ##1.若干会议的期刊论文梳理
 ###1.1 [ICWSM: The International AAAI Conference on Web and Social Media](http://icwsm.org/2017/index.php)
@@ -51,7 +51,12 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
 * Newman M E J. Scientific collaboration networks. II. Shortest paths, weighted networks, and centrality[J]. Physical review E, 2001, 64(1): 016132.
 * Christakis N A, Fowler J H. The spread of obesity in a large social network over 32 years[J]. New England journal of medicine, 2007, 357(4): 370-379.
 
-###2.2 Family Community/Group Detection 论文分类梳理
+###2.2 Community/Group Detection基础论文分类梳理
+* 一般Community Detection<br>
+  * `根据twitter的数据预测用户兴趣，如果给定一个广告、那么会分析出一个最佳的线下广告投放的区域`<br>Malliaros F D, Vazirgiannis M. Clustering and community detection in directed networks: A survey[J]. Physics Reports, 2013, 533(4): 95-142.<br>
+  * `facebook，设备跨屏打通`<br>Coey D, Bailey M. People and Cookies: Imperfect Treatment Assignment in Online Experiments[C]//Proceedings of the 25th International Conference on World Wide Web. International World Wide Web Conferences Steering Committee, 2016: 1103-1111.
+
+###2.3 Family Community/Group Detection on SNA论文分类梳理
 ####(1)如何得到用户特征（数据预处理类别：侧重于处理数据集，获取数据集，处理数据成可以分析的）
 ####(2)用户特征建模（如何对数据建模：根据数据生成关系标签）
 ####(3)用户间关系挖掘、群体发现（community/group detection 方法类别）
