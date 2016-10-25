@@ -23,7 +23,7 @@ Celis L E, Krafft P M, Kobe N. Sequential Voting Promotes Collective Discovery i
 Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C]//Tenth International AAAI Conference on Web and Social Media. 2016.
 
 * 计算广告<br>
-  * `根据twitter的数据预测用户兴趣，如果给定一个广告、那么会分析出一个最佳的线下广告投放的区域`<br>Anagnostopoulos A, Petroni F, Sorella M. Targeted Interest-Driven Advertising in Cities Using Twitter[C]//Tenth International AAAI Conference on Web and Social Media. 2016.<br>
+  * `根据twitter的数据预测用户兴趣，如果给定一个广告、那么会分析出一个最佳的线下广告投放的区域`<br>Anagnostopoulos A, Petroni F, Sorella M. Targeted Interest-Driven Advertising in Cities Using Twitter[C]//Tenth International AAAI Conference on Web and Social Media. 2016.<br>
   * `facebook，设备跨屏打通`<br>Coey D, Bailey M. People and Cookies: Imperfect Treatment Assignment in Online Experiments[C]//Proceedings of the 25th International Conference on World Wide Web. International World Wide Web Conferences Steering Committee, 2016: 1103-1111.
 
 
