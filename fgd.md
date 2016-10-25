@@ -10,7 +10,8 @@
   * `年龄预测`<br>
 Zhang J, Hu X, Zhang Y, et al. Your Age Is No Secret: Inferring Microbloggers’ Ages via Content and Interaction Analysis[C]//Tenth International AAAI Conference on Web and Social Media. 2016.<br>
 
-[2] Park J Y, Sohn Y, Moon S. Power of Earned Advertising on Social Network Services: A Case Study of Friend Tagging on Facebook[C]//Tenth International AAAI Conference on Web and Social Media. 2016.<br>
+  * `给朋友关系标签`<br>
+ Park J Y, Sohn Y, Moon S. Power of Earned Advertising on Social Network Services: A Case Study of Friend Tagging on Facebook[C]//Tenth International AAAI Conference on Web and Social Media. 2016.<br>
 [3] Silva L, Mondal M, Correa D, et al. Analyzing the Targets of Hate in Online Social Media[J]. arXiv preprint arXiv:1603.07709, 2016.<br>
 [4] Malmi E, Weber I. You Are What Apps You Use: Demographic Prediction Based on User's Apps[J]. arXiv preprint arXiv:1603.00059, 2016.<br>
 [5] Hossain N, Hu T, Feizi R, et al. Precise Localization of Homes and Activities: Detecting Drinking-While-Tweeting Patterns in Communities[C]//Tenth International AAAI Conference on Web and Social Media. 2016.<br>
