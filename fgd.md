@@ -48,6 +48,7 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
 ###2.1 SNA基础论文分类梳理
 * `超经典论文 Weak ties，引用40223`<br>GB/T 7714	Granovetter M S. The strength of weak ties[J]. American journal of sociology, 1973: 1360-1380.
 * `经典论文 Weak ties->structure，引用40223`<br>Burt R S. Structural holes: The social structure of competition[M]. Harvard university press, 2009.
+
 ###2.2 Family Community/Group Detection 论文分类梳理
 ####(1)如何得到用户特征（数据预处理类别：侧重于处理数据集，获取数据集，处理数据成可以分析的）
 ####(2)用户特征建模（如何对数据建模：根据数据生成关系标签）
