@@ -35,7 +35,7 @@ If any authors do not want their paper to be listed here, please feel free to co
     * [PANDA: Pose Aligned Networks for Deep Attribute Modeling]()
 * [research.yahoo.com](https://research.yahoo.com)
  * ADVERTISING SCIENCE
-  * [Gender and Interest Targeting for Sponsored Post Advertising at Tumblr](https://research.yahoo.com/publications/8486/gender-and-interest-targeting-sponsored-post-advertising-tumblr)
+   * [Gender and Interest Targeting for Sponsored Post Advertising at Tumblr](https://research.yahoo.com/publications/8486/gender-and-interest-targeting-sponsored-post-advertising-tumblr)
 * [http://research.google.com/](http://research.google.com/pubs/DataMiningandModeling.html)
 * [engineering.twitter.com/research](https://engineering.twitter.com/research/community)
 
