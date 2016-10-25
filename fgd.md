@@ -54,9 +54,9 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
 
 ###3.2 Community/Group Detection基础论文分类梳理
 * 一般Community Detection<br>
-  * `综述（48页）：有向网络中的聚类和团体挖掘`<br>Malliaros F D, Vazirgiannis M. Clustering and community detection in directed networks: A survey[J]. Physics Reports, 2013, 533(4): 95-142.<br>
-  * `综述（14页）：一共13种网络中挖掘团体的算法的对比`<br>Harenberg S, Bello G, Gjeltema L, et al. Community detection in large‐scale networks: a survey and empirical evaluation[J]. Wiley Interdisciplinary Reviews: Computational Statistics, 2014, 6(6): 426-439.
-  * `综述（100页）：图模型中的团体挖掘`<br>Fortunato S. Community detection in graphs[J]. Physics reports, 2010, 486(3): 75-174.
+  * `综述（48页）：有向网络中的聚类和团体挖掘`<br>Malliaros F D, Vazirgiannis M. Clustering and community detection in directed networks: A survey[J]. Physics Reports, 2013, 533(4): 95-142.<br>
+  * `综述（14页）：一共13种网络中挖掘团体的算法的对比`<br>Harenberg S, Bello G, Gjeltema L, et al. Community detection in large‐scale networks: a survey and empirical evaluation[J]. Wiley Interdisciplinary Reviews: Computational Statistics, 2014, 6(6): 426-439.
+  * `综述（100页）：图模型中的团体挖掘`<br>Fortunato S. Community detection in graphs[J]. Physics reports, 2010, 486(3): 75-174.
 
 ###3.3 Family Community/Group Detection on SNA综述性文章
 * `综述（40页）`<br>Papadopoulos S, Kompatsiaris Y, Vakali A, et al. Community detection in social media[J]. Data Mining and Knowledge Discovery, 2012, 24(3): 515-554.
