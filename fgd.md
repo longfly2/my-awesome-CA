@@ -36,17 +36,22 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
 * `分析用户的互动行为`<br>Carton S, Adar E, Park S, et al. Audience analysis for competing memes in social media[C]//Ninth International AAAI Conference on Web and Social Media. 2015.
 * `分析朋友间关系网络从三个方面影响着小群组团体`<br>Polonski V W, Hogan B. Assessing the Structural Correlates between Friendship Networks and Conversational Agency in Facebook Groups[C]//Ninth International AAAI Conference on Web and Social Media. 2015.
 
+
 ###1.2 [ASONAM: The IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining](http://sbp-brims.org/2016/acceptedpapers/)
 #### 2016 topic相关梳理([全部的文章链接](http://sbp-brims.org/2016/acceptedpapers/))
 * `根据Twitter 140字的状态进行群体发现`<br>[Detecting communities by sentiment analysis of controversial topics](http://sbp-brims.org/2016/program/F_430pm.pdf)<br>
 
+
 ###1.3 [ISCI: International Conference on Social Computing](http://sbp-brims.org/2016/)
+
 
 
 ##2.若干机构的期刊论文梳理
 ###2.1 research.facebook.com
 * `FaceBook中家庭程员的一些特征`<br>Burke M, Adamic L A, Marciniak K. Families on Facebook[C]//ICWSM. 2013.
 * `FaceBook中不同性别用户的一些特征，比如女性用户获得的点赞评论等更多，类似的`<br>Wang Y C, Burke M, Kraut R E. Gender, topic, and audience response: an analysis of user-generated content on facebook[C]//Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. ACM, 2013: 31-34.
+
+
 
 ##3.论文list
 ###3.1 SNA基础论文分类梳理
@@ -55,16 +60,19 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
 * Newman M E J. Scientific collaboration networks. II. Shortest paths, weighted networks, and centrality[J]. Physical review E, 2001, 64(1): 016132.
 * Christakis N A, Fowler J H. The spread of obesity in a large social network over 32 years[J]. New England journal of medicine, 2007, 357(4): 370-379.
 
+
 ###3.2 Community/Group Detection基础论文分类梳理
 * 一般Community Detection<br>
   * `综述（48页）：有向网络中的聚类和团体挖掘`<br>Malliaros F D, Vazirgiannis M. Clustering and community detection in directed networks: A survey[J]. Physics Reports, 2013, 533(4): 95-142.<br>
   * `综述（14页）：一共13种网络中挖掘团体的算法的对比`<br>Harenberg S, Bello G, Gjeltema L, et al. Community detection in large‐scale networks: a survey and empirical evaluation[J]. Wiley Interdisciplinary Reviews: Computational Statistics, 2014, 6(6): 426-439.
   * `综述（100页）：图模型中的团体挖掘`<br>Fortunato S. Community detection in graphs[J]. Physics reports, 2010, 486(3): 75-174.
 
+
 ###3.3 Family Community/Group Detection on SNA综述性文章
 * `综述（40页）`<br>Papadopoulos S, Kompatsiaris Y, Vakali A, et al. Community detection in social media[J]. Data Mining and Knowledge Discovery, 2012, 24(3): 515-554.
 * `综述（137页）`<br>Tang L, Liu H. Community detection and mining in social media[J]. Synthesis Lectures on Data Mining and Knowledge Discovery, 2010, 2(1): 1-137.
 * `综述（20页）`<br>GB/T 7714	Plantié M, Crampes M. Survey on social community detection[M]//Social media retrieval. Springer London, 2013: 65-85.
+
 
 ###3.4 Family Community/Group Detection on SNA论文分类梳理
 ####(1)如何得到用户特征（数据预处理类别：侧重于处理数据集，获取数据集，处理数据成可以分析的）
@@ -76,7 +84,10 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
 ####(4)应用优化、如何利用已经得到的结论优化某个场景的应用
 ####(5)评价指标一类
 
+
 ###3.5 未整理列表
+
+
 
 ##4 相关的数据集<br>
 
