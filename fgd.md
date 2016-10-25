@@ -81,6 +81,7 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
   * `综述（5页）`<br>Tamimi I, El Kamili M. Literature survey on dynamic community detection and models of social networks[C]//Wireless Networks and Mobile Communications (WINCOM), 2015 International Conference on. IEEE, 2015: 1-5.
   * `综述（12页）`<br>Kim J, Lee J G. Community detection in multi-layer graphs: A survey[J]. ACM SIGMOD Record, 2015, 44(3): 37-48.
   * `综述（22页）`<br>Liu, Guoliang. “Community Structure and Detection in Complex Networks: a Survey.” (2012).
+  * `综述（2页）`<br>Hauptman A. Are Evolutionary Computation-Based Methods Comparable to State-of-the-art non-Evolutionary Methods for Community Detection?[C]//Proceedings of the 2016 on Genetic and Evolutionary Computation Conference Companion. ACM, 2016: 1465-1466.
 
 <br>
 ###3.3 Family Community/Group Detection on SNA综述性文章
