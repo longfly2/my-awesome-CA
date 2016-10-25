@@ -44,6 +44,9 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
 
 
 ##2.若干机构的期刊论文梳理
+###2.1 research.facebook.com
+* `FaceBook中家庭程员的一些特征`<br>Burke M, Adamic L A, Marciniak K. Families on Facebook[C]//ICWSM. 2013.
+* `FaceBook中不同性别用户的一些特征，比如女性用户获得的点赞评论等更多，类似的`<br>Wang Y C, Burke M, Kraut R E. Gender, topic, and audience response: an analysis of user-generated content on facebook[C]//Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. ACM, 2013: 31-34.
 
 ##3.论文list
 ###3.1 SNA基础论文分类梳理
