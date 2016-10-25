@@ -46,6 +46,8 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
 
 ##2.论文list
 ###2.1 SNA基础论文分类梳理
+* `超经典论文，引用40223`<br>GB/T 7714	
+Granovetter M S. The strength of weak ties[J]. American journal of sociology, 1973: 1360-1380.
 
 ###2.2 Family Community/Group Detection 论文分类梳理
 ####(1)如何得到用户特征（数据预处理类别：侧重于处理数据集，获取数据集，处理数据成可以分析的）
@@ -67,5 +69,4 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
 |     |  |  | 
 
 
-, 并提供数据集，例如:
-* 从SBP-BRiMS[]
+
