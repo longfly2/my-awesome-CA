@@ -63,7 +63,8 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
 | ------------- |:-------------| :-----|:-------------|
 | SBP-BRiMS每年会发布challenge      | SBP-BRiMS2016 challenge | [SBP-BRiMS2016 challenge](http://sbp-brims.org/2016/challenge/) ||
 | Dataverse    | 从SBP2016的一个ICEWS中存储的位置得到 | [dataverse](https://dataverse.harvard.edu/) | 中国复旦大学有个[站点](http://dvn.fudan.edu.cn/dvn/)，但内容是社科的 |
-| Dataverse    | 从SBP2016的一个ICEWS中存储的位置得到 | [dataverse](https://dataverse.harvard.edu/) | |
+| DSpace    | 从Dataverse的wiki中Alternatives 得到 | [DSpace](http://www.dspace.org/) | |
+|  CKAN    | 从Dataverse的wiki中Alternatives 得到 | [ CKAN](http://ckan.org/instances/) | |
 
 , 并提供数据集，例如:
 * 从SBP-BRiMS[]
