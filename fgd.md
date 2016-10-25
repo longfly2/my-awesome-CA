@@ -4,6 +4,10 @@
 > 参考：[SNA相关会议期刊列表](https://github.com/Tulongf/awesome-CA/blob/master/jclist.md)<br>
 搜索关键词：`Community detection` `Community detection survey` `Detecting family`  `relationship labeling`
 
+##0.若干大牛(关注一下，可以看看其课程之类的，先Mark)
+* [Mark Newman](http://www-personal.umich.edu/~mejn/)
+* [Jure Leskovec](http://cs.stanford.edu/people/jure/)
+
 ##1.若干会议的期刊论文梳理
 ###1.1 [ICWSM: The International AAAI Conference on Web and Social Media](http://icwsm.org/2017/index.php)
 #### 2016 topic相关梳理
