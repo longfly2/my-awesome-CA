@@ -77,6 +77,8 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
   * `综述（7页）`<br>Allahverdyan A E, Ver Steeg G, Galstyan A. Community detection with and without prior information[J]. EPL (Europhysics Letters), 2010, 90(1): 18002.
   * `综述（27页）`<br>Paxton N C, Russell S, Moskowitz I S, et al. A Survey of Community Detection Algorithms Based On Analysis-Intent[M]//Cyber Warfare. Springer International Publishing, 2015: 237-263.
   * `综述（15页）`<br>Cai Q, Ma L, Gong M, et al. A survey on network community detection based on evolutionary computation[J]. International Journal of Bio-Inspired Computation, 2016, 8(2): 84-98.
+  * `综述（19页）`<br>Gregory S. Fuzzy overlapping communities in networks[J]. Journal of Statistical Mechanics: Theory and Experiment, 2011, 2011(02): P02017.
+  * `综述（5页）`<br>Tamimi I, El Kamili M. Literature survey on dynamic community detection and models of social networks[C]//Wireless Networks and Mobile Communications (WINCOM), 2015 International Conference on. IEEE, 2015: 1-5.
 
 <br>
 ###3.3 Family Community/Group Detection on SNA综述性文章
