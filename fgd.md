@@ -1,7 +1,8 @@
 
 ## SNA-FGD(Family Group Detection in Social Network Analysis)<br>
 
-> 参考：[SNA相关会议期刊列表](https://github.com/Tulongf/awesome-CA/blob/master/jclist.md)<br>
+> 参考1：[SNA相关会议期刊列表](https://github.com/Tulongf/awesome-CA/blob/master/jclist.md)<br>
+参考2：[CCF: 数据挖掘与内容检索相关会议期刊推荐列表](http://www.ccf.org.cn/sites/ccf/biaodan.jsp?contentId=2567518742937)<br>
 搜索关键词：<br>`Community detection` `Community detection survey` `community discovery` `Detecting family`  `relationship labeling`
 <br>
 
@@ -65,6 +66,7 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
 * `处理用户交互特别多的场景下面的一种称为ECDA的划分算法`<br>He T, Chan K C C. Evolutionary community detection in social networks[C]//2014 IEEE Congress on Evolutionary Computation (CEC). IEEE, 2014: 1496-1503.
 * `蚁群聚类算法优化`<br>Mu C, Zhang J, Jiao L. An intelligent ant colony optimization for community detection in complex networks[C]//2014 IEEE Congress on Evolutionary Computation (CEC). IEEE, 2014: 700-706.
 
+###1.7 [TKDE: IEEE Transactions on Knowledge and Data Engineering](https://www.computer.org/web/tkde)
 
 <br><br>
 ##2.若干机构的期刊论文梳理
