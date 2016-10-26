@@ -85,9 +85,13 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
 
 <br>
 ###1.8 [IEEE/ACM Transactions on Networking(CCF-A 计算机网络)](http://www.comsoc.org/ton)
-#### 2016 topic相关梳理,偏算法[相关论文的链接](https://scholar.google.com/scholar?q=community&hl=zh-CN&as_publication=IEEE%2FACM+Transactions+on+Networking&as_sdt=0%2C5&as_ylo=2016&as_yhi=2016)
+#### 2016 topic相关梳理,偏算法与网络理论[相关论文的链接](https://scholar.google.com/scholar?q=community&hl=zh-CN&as_publication=IEEE%2FACM+Transactions+on+Networking&as_sdt=0%2C5&as_ylo=2016&as_yhi=2016)
 * `利用bootstrap percolation results 和 a novel graph slicing technique 来处理社交网络去匿名化`<br>Fabiana C. Social Network De-anonymization Under Scale-free User Relations[J]. IEEE-ACM TRANSACTIONS ON NETWORKING.<br>
 
+<br>
+###1.9 <font color=Gold>[IEEE/ACM Transactions on Networking(CCF-A 计算机网络)](http://www.comsoc.org/ton)</font>
+#### 2015 topic相关梳理,偏应用[相关论文的链接](https://scholar.google.com/scholar?q=Community+detection&hl=zh-CN&as_publication=IEEE%2FWIC%2FACM+International+Conference+on+Web+Intelligence&as_sdt=0%2C5&as_ylo=2015&as_yhi=2015)
+* `利用bootstrap percolation results 和 a novel graph slicing technique 来处理社交网络去匿名化`<br>Fabiana C. Social Network De-anonymization Under Scale-free User Relations[J]. IEEE-ACM TRANSACTIONS ON NETWORKING.<br>
 
 <br><br>
 ##2.若干机构的期刊论文梳理
