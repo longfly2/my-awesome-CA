@@ -89,9 +89,9 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
 * `利用bootstrap percolation results 和 a novel graph slicing technique 来处理社交网络去匿名化`<br>Fabiana C. Social Network De-anonymization Under Scale-free User Relations[J]. IEEE-ACM TRANSACTIONS ON NETWORKING.<br>
 
 <br>
-###1.9 <font color=Gold>[IEEE/ACM Transactions on Networking(CCF-A 计算机网络)](http://www.comsoc.org/ton)</font>
+###1.9 <font color=gold >IEEE/WIC/ACM International Conference on Web Intelligence(CCF-C)[链接](http://wibih.unomaha.edu/wi)</font>
 #### 2015 topic相关梳理,偏应用[相关论文的链接](https://scholar.google.com/scholar?q=Community+detection&hl=zh-CN&as_publication=IEEE%2FWIC%2FACM+International+Conference+on+Web+Intelligence&as_sdt=0%2C5&as_ylo=2015&as_yhi=2015)
-* `利用bootstrap percolation results 和 a novel graph slicing technique 来处理社交网络去匿名化`<br>Fabiana C. Social Network De-anonymization Under Scale-free User Relations[J]. IEEE-ACM TRANSACTIONS ON NETWORKING.<br>
+* `Ramdom walk算法打标签进行团体挖掘`<br>Su C, Jia X, Xie X, et al. A New Random-Walk Based Label Propagation Community Detection Algorithm[C]//2015 IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT). IEEE, 2015, 1: 137-140.<br>
 
 <br><br>
 ##2.若干机构的期刊论文梳理
