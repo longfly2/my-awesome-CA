@@ -92,6 +92,7 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
 ###1.9 <font color=gold >IEEE/WIC/ACM International Conference on Web Intelligence(CCF-C)[链接](http://wibih.unomaha.edu/wi)</font>
 #### 2015 topic相关梳理,偏应用[相关论文的链接](https://scholar.google.com/scholar?q=Community+detection&hl=zh-CN&as_publication=IEEE%2FWIC%2FACM+International+Conference+on+Web+Intelligence&as_sdt=0%2C5&as_ylo=2015&as_yhi=2015)
 * `Ramdom walk算法打标签进行团体挖掘`<br>Su C, Jia X, Xie X, et al. A New Random-Walk Based Label Propagation Community Detection Algorithm[C]//2015 IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT). IEEE, 2015, 1: 137-140.<br>
+* `问答网站兴趣重叠团体的挖掘`<br>Meng Z, Gandon F, Zucker C F. Simplified detection and labeling of overlapping communities of interest in question-and-answer sites[C]//2015 IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT). IEEE, 2015, 1: 107-114.
 
 <br><br>
 ##2.若干机构的期刊论文梳理
