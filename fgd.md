@@ -66,7 +66,7 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
 * `蚁群聚类算法优化`<br>Mu C, Zhang J, Jiao L. An intelligent ant colony optimization for community detection in complex networks[C]//2014 IEEE Congress on Evolutionary Computation (CEC). IEEE, 2014: 700-706.
 
 <br>
-###1.6 [CSCW: The ACM Conference on Computer-Supported Cooperative Work and Social Computing(CCF-A 人机交互与普适计算)](http://cscw.acm.org/2017/)
+###1.6 [CSCW: The ACM Conference on Computer-Supported Cooperative Work and Social Computing(CCF-B 人机交互与普适计算)](http://cscw.acm.org/2017/)
 
 <br>
 ###1.7 [TKDE: IEEE Transactions on Knowledge and Data Engineering(CCF-A 数据挖掘领域)](https://www.computer.org/web/tkde)
