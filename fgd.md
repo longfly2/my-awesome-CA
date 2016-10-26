@@ -76,11 +76,11 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
 * `重叠社区快速检索算法`<br>Bandyopadhyay S, Chowdhary G, Sengupta D. FOCS: Fast Overlapped Community Search[J]. IEEE Transactions on Knowledge and Data Engineering, 2015, 27(11): 2974-2985.<br>
 
 #### 2014 topic相关梳理,偏算法[相关论文的链接](https://scholar.google.com/scholar?q=community&hl=zh-CN&as_publication=IEEE+Congress+on+Evolutionary+Computation&as_sdt=0%2C5&as_ylo=2014&as_yhi=2014)
-* `参考图模型的聚类划分，考虑network topology (Density, Centralization,Heterogeneity, Neighbourhood, Clustering Coefficient)进行图的划分`<br>Folino F, Pizzuti C. An evolutionary multiobjective approach for community discovery in dynamic networks[J]. IEEE Transactions on Knowledge and Data Engineering, 2014, 26(8): 1838-1852.<br>
-* `不需要先验知识的、非模块化的压缩算法`<br>Li X, Ng M K, Ye Y. Multicomm: Finding community structure in multi-dimensional networks[J]. IEEE Transactions on Knowledge and Data Engineering, 2014, 26(4): 929-941.<br>
-* `基于结构相似度进行划分的一种算法`<br>Wang C D, Lai J H, Philip S Y. NEIWalk: community discovery in dynamic content-based networks[J]. IEEE Transactions on Knowledge and Data Engineering, 2014, 26(7): 1734-1748.
-* `基于采样的蚁群聚类算法进行团体划分`<br>Tai C H, Philip S Y, Yang D N, et al. Structural diversity for resisting community identification in published social networks[J]. IEEE Transactions on Knowledge and Data Engineering, 2014, 26(1): 235-252.
-* `处理用户交互特别多的场景下面的一种称为ECDA的划分算法`<br>Zhu W Y, Peng W C, Hung C C, et al. Exploring Sequential Probability Tree for Movement-Based Community Discovery[J]. IEEE Transactions on Knowledge and Data Engineering, 2014, 26(11): 2717-2730.
+* `基于时间平滑的多目标类基因算法进行团体挖掘`<br>Folino F, Pizzuti C. An evolutionary multiobjective approach for community discovery in dynamic networks[J]. IEEE Transactions on Knowledge and Data Engineering, 2014, 26(8): 1838-1852.<br>
+* `多维数据格式的网络中团体挖掘`<br>Li X, Ng M K, Ye Y. Multicomm: Finding community structure in multi-dimensional networks[J]. IEEE Transactions on Knowledge and Data Engineering, 2014, 26(4): 929-941.<br>
+* `方法集成：综合考虑结构和内容属性，讨论连接结构、节点的内容和边的含义进行团体划分`<br>Wang C D, Lai J H, Philip S Y. NEIWalk: community discovery in dynamic content-based networks[J]. IEEE Transactions on Knowledge and Data Engineering, 2014, 26(7): 1734-1748.
+* `k-SDA算法进行匿名团体挖掘`<br>Tai C H, Philip S Y, Yang D N, et al. Structural diversity for resisting community identification in published social networks[J]. IEEE Transactions on Knowledge and Data Engineering, 2014, 26(1): 235-252.
+* `SP-tree算法解决团体的移动问题`<br>Zhu W Y, Peng W C, Hung C C, et al. Exploring Sequential Probability Tree for Movement-Based Community Discovery[J]. IEEE Transactions on Knowledge and Data Engineering, 2014, 26(11): 2717-2730.
 
 
 <br><br>
