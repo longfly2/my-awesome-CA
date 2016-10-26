@@ -52,6 +52,15 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
 ###1.3 [ISCI: International Conference on Social Computing](http://sbp-brims.org/2016/)
 ###1.4 [SOCIALCOM: The IEEE International Conference on Social Computing and Networking](http://tinman.cs.gsu.edu/~socialcom/index.html)
 ###1.5 [CSCW: The ACM Conference on Computer-Supported Cooperative Work and Social Computing ](http://cscw.acm.org/2017/)
+###1.6 [CEC: IEEE Congress on Evolutionary Computation (CEC)](http://www.cec2017.org/)()
+#### 2014 topic相关梳理,偏算法[相关论文的链接](https://scholar.google.com/scholar?q=community&hl=zh-CN&as_publication=IEEE+Congress+on+Evolutionary+Computation&as_sdt=0%2C5&as_ylo=2014&as_yhi=2014)
+* `参考图模型的聚类划分，考虑network topology (Density, Centralization,Heterogeneity, Neighbourhood, Clustering Coefficient)进行图的划分`<br>Bello-Orgaz G, Camacho D. Evolutionary clustering algorithm for community detection using graph-based information[C]//2014 IEEE Congress on Evolutionary Computation (CEC). IEEE, 2014: 930-937.<br>
+* `不需要先验知识的、非模块化的压缩算法`<br>Wu J, Yuan L, Gong Q, et al. A compression optimization algorithm for community detection[C]//2014 IEEE Congress on Evolutionary Computation (CEC). IEEE, 2014: 667-671.<br>
+* `基于结构相似度进行划分的一种算法`<br>Mu C, Xie J, Liu R, et al. A memetic algorithm using local structural information for detecting community structure in complex networks[C]//2014 IEEE Congress on Evolutionary Computation (CEC). IEEE, 2014: 680-686.
+* `基于采样的蚁群聚类算法进行团体划分`<br>Song X, Ji J, Yang C, et al. Ant colony clustering based on sampling for community detection[C]//2014 IEEE Congress on Evolutionary Computation (CEC). IEEE, 2014: 687-692.
+* `处理用户交互特别多的场景下面的一种称为ECDA的划分算法`<br>He T, Chan K C C. Evolutionary community detection in social networks[C]//2014 IEEE Congress on Evolutionary Computation (CEC). IEEE, 2014: 1496-1503.
+* `蚁群聚类算法优化`<br>Mu C, Zhang J, Jiao L. An intelligent ant colony optimization for community detection in complex networks[C]//2014 IEEE Congress on Evolutionary Computation (CEC). IEEE, 2014: 700-706.
+
 
 <br><br>
 ##2.若干机构的期刊论文梳理
