@@ -85,19 +85,9 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
 
 <br>
 ###1.8 [IEEE/ACM Transactions on Networking(CCF-A 计算机网络)](http://www.comsoc.org/ton)
-#### 2016 topic相关梳理,偏算法[相关论文的链接](https://scholar.google.com/scholar?as_q=community&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=&as_publication=IEEE+Transactions+on+Knowledge+and+Data+Engineering&as_ylo=2016&as_yhi=2016&btnG=&hl=zh-CN&as_sdt=0%2C5)
-* `利用一种称为种子拓展的方法进行重叠类型的团体发掘`<br>Whang J J, Gleich D F, Dhillon I S. Overlapping community detection using neighborhood-inflated seed expansion[J]. IEEE Transactions on Knowledge and Data Engineering, 2016, 28(5): 1272-1284.<br>
-* `区别于传统的图划分算法，因为不能确定明确的边界，基于任何一个小团体都是属于另外的团体的子集的事实本文提出一种新的方法`<br>Mahmood A, Small M. Subspace Based Network Community Detection Using Sparse Linear Coding[J]. IEEE Transactions on Knowledge and Data Engineering, 2016, 28(3): 801-812.<br>
+#### 2016 topic相关梳理,偏算法[相关论文的链接](https://scholar.google.com/scholar?q=community&hl=zh-CN&as_publication=IEEE%2FACM+Transactions+on+Networking&as_sdt=0%2C5&as_ylo=2016&as_yhi=2016)
+* `利用bootstrap percolation results 和 a novel graph slicing technique 来处理社交网络去匿名化`<br>Fabiana C. Social Network De-anonymization Under Scale-free User Relations[J]. IEEE-ACM TRANSACTIONS ON NETWORKING.<br>
 
-#### 2015 topic相关梳理,偏算法[相关论文的链接](https://scholar.google.com/scholar?q=community&hl=zh-CN&as_publication=IEEE+Transactions+on+Knowledge+and+Data+Engineering&as_sdt=0%2C5&as_ylo=2015&as_yhi=2015)
-* `重叠社区快速检索算法`<br>Bandyopadhyay S, Chowdhary G, Sengupta D. FOCS: Fast Overlapped Community Search[J]. IEEE Transactions on Knowledge and Data Engineering, 2015, 27(11): 2974-2985.<br>
-
-#### 2014 topic相关梳理,偏算法[相关论文的链接](https://scholar.google.com/scholar?q=community&hl=zh-CN&as_publication=IEEE+Congress+on+Evolutionary+Computation&as_sdt=0%2C5&as_ylo=2014&as_yhi=2014)
-* `基于时间平滑的多目标类基因算法进行团体挖掘`<br>Folino F, Pizzuti C. An evolutionary multiobjective approach for community discovery in dynamic networks[J]. IEEE Transactions on Knowledge and Data Engineering, 2014, 26(8): 1838-1852.<br>
-* `多维数据格式的网络中团体挖掘`<br>Li X, Ng M K, Ye Y. Multicomm: Finding community structure in multi-dimensional networks[J]. IEEE Transactions on Knowledge and Data Engineering, 2014, 26(4): 929-941.<br>
-* `方法集成：综合考虑结构和内容属性，讨论连接结构、节点的内容和边的含义进行团体划分`<br>Wang C D, Lai J H, Philip S Y. NEIWalk: community discovery in dynamic content-based networks[J]. IEEE Transactions on Knowledge and Data Engineering, 2014, 26(7): 1734-1748.
-* `k-SDA算法进行匿名团体挖掘`<br>Tai C H, Philip S Y, Yang D N, et al. Structural diversity for resisting community identification in published social networks[J]. IEEE Transactions on Knowledge and Data Engineering, 2014, 26(1): 235-252.
-* `SP-tree算法解决团体的移动问题`<br>Zhu W Y, Peng W C, Hung C C, et al. Exploring Sequential Probability Tree for Movement-Based Community Discovery[J]. IEEE Transactions on Knowledge and Data Engineering, 2014, 26(11): 2717-2730.
 
 <br><br>
 ##2.若干机构的期刊论文梳理
