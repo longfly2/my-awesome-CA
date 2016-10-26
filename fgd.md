@@ -52,11 +52,13 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
 <br>
 ###1.3 [ISCI: International Conference on Social Computing](http://sbp-brims.org/2016/)
 ###1.4 [SOCIALCOM: The IEEE International Conference on Social Computing and Networking](http://tinman.cs.gsu.edu/~socialcom/index.html)
-###1.5 [CSCW: The ACM Conference on Computer-Supported Cooperative Work and Social Computing ](http://cscw.acm.org/2017/)
-###1.6 [CEC: IEEE Congress on Evolutionary Computation (CEC)](http://www.cec2017.org/)
+###1.5 [CEC: IEEE Congress on Evolutionary Computation (CEC)](http://www.cec2017.org/)
 #### 2015 topic相关梳理,偏算法[相关论文的链接](https://scholar.google.com/scholar?q=community&hl=zh-CN&as_publication=IEEE+Congress+on+Evolutionary+Computation&as_sdt=0%2C5&as_ylo=2015&as_yhi=2015)
 * `改进粒子群优化（PSO）算法，并将其应用在团体挖掘`<br>Cao C, Ni Q, Zhai Y. A novel community detection method based on discrete particle swarm optimization algorithms in complex networks[C]//2015 IEEE Congress on Evolutionary Computation (CEC). IEEE, 2015: 171-178.<br>
 * `Fiedler vector centrality方法进行deep community detect，本文是关于Fiedler vector的工作`<br>Wang S, Gong M, Shen B, et al. Deep community detection based on memetic algorithm[C]//2015 IEEE Congress on Evolutionary Computation (CEC). IEEE, 2015: 648-655.<br>
+
+###1.6 [CSCW: The ACM Conference on Computer-Supported Cooperative Work and Social Computing(CCF-A 人机交互与普适计算)](http://cscw.acm.org/2017/)<br>
+
 
 #### 2014 topic相关梳理,偏算法[相关论文的链接](https://scholar.google.com/scholar?q=community&hl=zh-CN&as_publication=IEEE+Congress+on+Evolutionary+Computation&as_sdt=0%2C5&as_ylo=2014&as_yhi=2014)
 * `参考图模型的聚类划分，考虑network topology (Density, Centralization,Heterogeneity, Neighbourhood, Clustering Coefficient)进行图的划分`<br>Bello-Orgaz G, Camacho D. Evolutionary clustering algorithm for community detection using graph-based information[C]//2014 IEEE Congress on Evolutionary Computation (CEC). IEEE, 2014: 930-937.<br>
