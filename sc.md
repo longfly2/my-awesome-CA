@@ -31,7 +31,7 @@
   
 ##视频教程
 * [Coursera: StanFord-Probabilistic Graphical Models/概率图模型](https://www.coursera.org/specializations/probabilistic-graphical-models)
-  * 参考书：科勒 (Daphne Koller)著，概率图模型:原理与技术[M],清华大学出版社,2015.03.01
+  * 参考书：科勒 (Daphne Koller)著，概率图模型:原理与技术[M],清华大学出版社,2015.03.01
 * [Coursera: 北京大学-人群与网络](https://www.coursera.org/learn/renqun-wangluo)
 
 
