@@ -11,19 +11,28 @@ If any authors do not want their paper to be listed here, please feel free to co
 ### 1.1 数学分析
 * [网易云课堂： MIT-单变量微积分学](http://v.163.com/special/sp/singlevariablecalculus.html)<br>
 
-### 1.2 矩阵理论
+### 1.2 代数学
 * [网易云课堂：MIT-矩阵理论](http://open.163.com/special/opencourse/daishu.html)<br>
 
-### 1.3 概率与统计
-* [网易云课堂：可汗学院-概率论](http://open.163.com/special/Khan/probability.html)<br>
-
-### 1.4 最优化
-*[最优化理论（重点凸优化理论）](http://stanford.edu/~boyd/cvxbook/)<br>
-
-### 1.5 实变函数与泛函
+### 1.3 函数论与泛函分析
 * [时变函数与泛函分析 ](http://open.163.com/special/opencourse/fanhanfenxi.html)<br>
 
-### 1.6 随机过程
-[随机过程Hyperlink: Stochastic Process MIT View the complete course: Discrete Stochastic Processes](#)<br>
+### 1.4 概率论
+* [网易云课堂：可汗学院-概率论](http://open.163.com/special/Khan/probability.html)<br>
+* [随机过程Hyperlink: Stochastic Process MIT View the complete course: Discrete Stochastic Processes](#)<br>
+
+### 1.4 数理统计学与应用统计学
+* [网易云课堂：可汗学院-概率论](http://open.163.com/special/Khan/probability.html)<br>
+* [随机过程Hyperlink: Stochastic Process MIT View the complete course: Discrete Stochastic Processes](#)<br>
+
+### 1.5 运筹学
+* 图论
+
+*最优化
+  *[最优化理论（重点凸优化理论）](http://stanford.edu/~boyd/cvxbook/)<br>
+
+
+
+
 
 ##算法策略基础<br>
