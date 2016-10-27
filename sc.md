@@ -19,7 +19,7 @@
     * [HTML版本链接](http://citicbook.baidu.com/ebook/c4ba3b9f81c758f5f61f67e1)
     * [百度阅读链接](http://yuedu.baidu.com/ebook/c4ba3b9f81c758f5f61f67e1)
     * [作者GitHub地址以及书中python代码](https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition)
-  * 梁循等著，面向社会化媒体大数据的社会计算[M], 清华大学出版社,2014.12.01
+  * ~~梁循等著，面向社会化媒体大数据的社会计算[M], 清华大学出版社,2014.12.01~~
   * ~~方滨兴等著，在线社交网络分析[M], 电子工业出版社,2014.11.01~~
   * 刘红岩著，社会计算:用户在线行为分析与挖掘，清华大学出版社，2014.07.01
   * 王飞跃等著，社会计算的基本方法与应用(第2版)[M], 浙江大学出版社,2013.05
