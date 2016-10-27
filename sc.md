@@ -32,9 +32,10 @@
 (1)重要<br> 
 * [Coursera: StanFord-Social and Economic Networks: Models and Analysis](https://www.coursera.org/learn/social-media-data-analytics)
 * [Coursera: StanFord-Probabilistic Graphical Models/概率图模型](https://www.coursera.org/specializations/probabilistic-graphical-models)
-  * 参考书：科勒 (Daphne Koller)著，概率图模型:原理与技术[M],清华大学出版社,2015.03.01<br><br>  
-(2)参考课程<br> 
+  * 参考书：科勒 (Daphne Koller)著，概率图模型:原理与技术[M],清华大学出版社,2015.03.01
 * [Coursera:  University of California-社交计算（Social Computing）](https://www.coursera.org/learn/social-computing)
+* [Udacity: Intro to Algorithms Social Network Analysis](https://cn.udacity.com/course/intro-to-algorithms--cs215)<br> 
+(2)参考课程
 * [Coursera: 北京大学-人群与网络](https://www.coursera.org/learn/renqun-wangluo)
 * [西北工业大学-Computational Social Science (计算社会学)](http://www.ayu.ics.keio.ac.jp/~bingo/course.html)
 * [cornell - Networks, Crowds, and Markets](https://www.cs.cornell.edu/home/kleinber/networks-book/)
