@@ -10,7 +10,10 @@ If any authors do not want their blogs to be listed here, please feel free to co
 # 1. 国内大厂技术博客
 
 # 2. 国外大厂技术博客
-
+* [Google Research](http://research.google.com)
+* [FaceBook Research](http://research.facebook.com)
+* [Yahoo Research](http://research.yahoo.com)
+* [Ebay Research](http://research.ebay.com)
 
 # 3. 国内牛人技术博客
 
