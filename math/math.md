@@ -7,12 +7,23 @@ If any authors do not want their paper to be listed here, please feel free to co
 ##教程索引
 
 
-##数学基础课程<br>
-（1）[微积分学](http://v.163.com/special/sp/singlevariablecalculus.html)<br>
-（2）[矩阵理论](http://open.163.com/special/opencourse/daishu.html)<br>
-（3）[概率论](http://open.163.com/special/Khan/probability.html)<br>
-（4）[最优化理论（重点凸优化理论）](http://stanford.edu/~boyd/cvxbook/)<br>
-（5）[时变函数与泛函分析 ](http://open.163.com/special/opencourse/fanhanfenxi.html)<br>
-（6）[随机过程Hyperlink: Stochastic Process MIT View the complete course: Discrete Stochastic Processes](#)<br>
+##1. 数学基础课程<br>
+### 1.1 微积分
+* [微积分学](http://v.163.com/special/sp/singlevariablecalculus.html)<br>
+
+### 1.2 矩阵理论
+* [矩阵理论](http://open.163.com/special/opencourse/daishu.html)<br>
+
+### 1.3 概率与统计
+* [概率论](http://open.163.com/special/Khan/probability.html)<br>
+
+### 1.4 最优化
+*[最优化理论（重点凸优化理论）](http://stanford.edu/~boyd/cvxbook/)<br>
+
+### 1.5 实变函数与泛函
+* [时变函数与泛函分析 ](http://open.163.com/special/opencourse/fanhanfenxi.html)<br>
+
+### 1.6 随机过程
+[随机过程Hyperlink: Stochastic Process MIT View the complete course: Discrete Stochastic Processes](#)<br>
 
 ##算法策略基础<br>
