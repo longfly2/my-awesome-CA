@@ -30,6 +30,11 @@ If any authors do not want their paper to be listed here, please feel free to co
 
 * 最优化
   * [最优化理论（重点凸优化理论）](http://stanford.edu/~boyd/cvxbook/)<br>
+  * [Coursera - Linear and Discrete Optimization]()
+  * [Coursera - Discrete Optimization]()
+  * [Coursera - Linear and Integer Programming]()
+  * [Coursera - Mathematical Methods for Quantitative Finance]()
+  * [Stanford Online - CVX101: Convex Optimization]()
 
 
 
