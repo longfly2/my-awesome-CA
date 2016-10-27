@@ -8,14 +8,14 @@ If any authors do not want their paper to be listed here, please feel free to co
 
 
 ##1. 数学基础课程<br>
-### 1.1 微积分
-* [微积分学](http://v.163.com/special/sp/singlevariablecalculus.html)<br>
+### 1.1 数学分析
+* [网易云课堂： MIT-单变量微积分学](http://v.163.com/special/sp/singlevariablecalculus.html)<br>
 
 ### 1.2 矩阵理论
-* [矩阵理论](http://open.163.com/special/opencourse/daishu.html)<br>
+* [网易云课堂：MIT-矩阵理论](http://open.163.com/special/opencourse/daishu.html)<br>
 
 ### 1.3 概率与统计
-* [概率论](http://open.163.com/special/Khan/probability.html)<br>
+* [网易云课堂：可汗学院-概率论](http://open.163.com/special/Khan/probability.html)<br>
 
 ### 1.4 最优化
 *[最优化理论（重点凸优化理论）](http://stanford.edu/~boyd/cvxbook/)<br>
