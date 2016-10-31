@@ -155,6 +155,9 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
 ####(5)评价指标一类
 
 <br>
+###3.5 Friends Detection on SNA
+* `利用朋友关系和家人圈更精准的挖掘用户间关系`<br>Zheleva E, Getoor L, Golbeck J, et al. Using friendship ties and family circles for link prediction[M]//Advances in Social Network Mining and Analysis. Springer Berlin Heidelberg, 2010: 97-113.
+
 ###3.5 未整理列表
 
 
