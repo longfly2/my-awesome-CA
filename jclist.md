@@ -6,7 +6,8 @@ If any authors do not want their paper to be listed here, please feel free to co
 
 ##list索引
 
-##Conference & Journal-social network analysis
+#1 Conference & Journals
+##1.1 Conference & Journal-social network analysis
 * [ICWSM: The International AAAI Conference on Web and Social Media](http://icwsm.org/2017/index.php)
 * [ASONAM: The IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining](http://sbp-brims.org/2016/acceptedpapers/)
 * [ISCI: International Conference on Social Computing](http://sbp-brims.org/2016/)
@@ -18,12 +19,12 @@ If any authors do not want their paper to be listed here, please feel free to co
 * [IEEE/WIC/ACM International Conference on Web Intelligence(CCF-C)](http://wibih.unomaha.edu/wi)
 * [SNA-KDD 2007-2014 (KDD WorkShop on SNA)](http://www.snakdd.com/)
 
-##Conference & Journal-machine learning
+##1.2 Conference & Journal-machine learning
 * [NIPS](https://papers.nips.cc/)
 * [ICML](http://jmlr.org/proceedings/)
 
  
-##Conference & Journal-recommender system
+##1.3 Conference & Journal-recommender system
  * [ACM SIGKDD: Special Interest Group on KnowledgeDiscovery and Data Mining](http://www.kdd.org/)
    * [ADKDD](http://www.adkdd.com/)
    * [PAKDD](http://www.adkdd.com/)
@@ -52,10 +53,8 @@ If any authors do not want their paper to be listed here, please feel free to co
  * [ACM TOCHI: ACM Transactions on Computer-Human Interaction](https://tochi.acm.org/)
  * [CACM: Communications of the ACM](http://cacm.acm.org/)
 
-##Paperlist
-
-
-##重要研究机构&实验室
+#2 Paperlist
+##2.1 重要研究机构&实验室
 * [https://research.facebook.com/](https://research.facebook.com/about/)
   * CA-计算广告
     * [Practical Lessons from Predicting Clicks on Ads at Facebook](https://lookaside.fbsbx.com/file/adkdd_2014_camera_ready_junfeng.pdf?token=AWwfeg_sRDpyCrG0vcfFp1KkvdFJN9ljTWTRpgdU1ChiGDEHLq-TvSufroP7wGyCnDaUGMEDM63UQHPtKpjCzQsf9rkMHO2IwHr1E826AMbUbwA1nvGvGMGy2OzijqbBdtE)
@@ -89,9 +88,8 @@ If any authors do not want their paper to be listed here, please feel free to co
 * [engineering.twitter.com/research](https://engineering.twitter.com/research/community)
 
 
-## 重要网站
- 
-## 博文收藏
+#3 重要网站
+##3.1 博文收藏
 * [Quora: What are the most interesting Twitter research papers?](https://www.quora.com/What-are-the-most-interesting-Twitter-research-papers#)
 
-##相关数据集
+#4 相关数据集
