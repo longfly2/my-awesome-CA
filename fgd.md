@@ -101,7 +101,7 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
 #### 2013 [Accepted papers](https://scholar.google.com/scholar?start=10&hl=zh-CN&as_publication=+Workshop+on+Social+Network+Mining+and+Analysis&as_sdt=0,5&as_ylo=2013&as_yhi=2013)
 #### 2012 [Accepted papers](https://scholar.google.com/scholar?start=10&hl=zh-CN&as_publication=+Workshop+on+Social+Network+Mining+and+Analysis&as_sdt=0,5&as_ylo=2012&as_yhi=2012)
 * `基于CRF(Conditional Random Fields)跨社交网络用户属性聚合`<br>Bartunov S, Korshunov A, Park S T, et al. Joint link-attribute user identity resolution in online social networks[C]//Proceedings of the 6th International Conference on Knowledge Discovery and Data Mining, Workshop on Social Network Mining and Analysis. ACM. 2012.
-* `基于通话记录推断用户间关系`<br><span style="color:#f03 !important;font-size:100px !important;">Motahari S, Mengshoel O J, Reuther P, et al. The impact of social affinity on phone calling patterns: categorizing social ties from call data records[C]//Proc. of the Sixth Workshop on Social Network Mining and Analysis. 2012.</span>
+* `基于通话记录推断用户间关系`<br><div style="color:#f03 !important;font-size:100px !important;">Motahari S, Mengshoel O J, Reuther P, et al. The impact of social affinity on phone calling patterns: categorizing social ties from call data records[C]//Proc. of the Sixth Workshop on Social Network Mining and Analysis. 2012.</div>
 
 #### 2011 [Accepted papers](https://scholar.google.com/scholar?start=10&hl=zh-CN&as_publication=+Workshop+on+Social+Network+Mining+and+Analysis&as_sdt=0,5&as_ylo=2011&as_yhi=2011)
 
