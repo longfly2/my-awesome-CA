@@ -56,7 +56,7 @@ If any authors do not want their paper to be listed here, please feel free to co
 * [TKDE: IEEE Transactions on Knowledge and Data Engineering(CCF-A 数据挖掘领域)](https://www.computer.org/web/tkde)
 * [IEEE/ACM Transactions on Networking(CCF-A 计算机网络)](http://www.comsoc.org/ton)
 * [IEEE/WIC/ACM International Conference on Web Intelligence(CCF-C)](http://wibih.unomaha.edu/wi)
-* [SNA-KDD 2007-2014 (KDD WorkShop on SNA](http://www.snakdd.com/)
+* [SNA-KDD 2007-2014 (KDD WorkShop on SNA)](http://www.snakdd.com/)
 
 ##Conference & Journal-machine learning
 * [NIPS](https://papers.nips.cc/)
