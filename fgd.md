@@ -97,9 +97,14 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
 * `问答网站兴趣重叠团体的挖掘`<br>Meng Z, Gandon F, Zucker C F. Simplified detection and labeling of overlapping communities of interest in question-and-answer sites[C]//2015 IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT). IEEE, 2015, 1: 107-114.
 
 <br>
-###1.10 [SNA-KDD 2007-2013 (KDD WorkShop on SNA](http://www.snakdd.com/)
-#### 2013 topic相关梳理,偏算法与网络理论[相关论文的链接](https://scholar.google.com/scholar?q=community&hl=zh-CN&as_publication=IEEE%2FACM+Transactions+on+Networking&as_sdt=0%2C5&as_ylo=2016&as_yhi=2016)
-* `利用bootstrap percolation results 和 a novel graph slicing technique 来处理社交网络去匿名化`<br>Fabiana C. Social Network De-anonymization Under Scale-free User Relations[J]. IEEE-ACM TRANSACTIONS ON NETWORKING.<br>
+###1.10 [SNA-KDD 2007-2014 (KDD WorkShop on SNA](http://www.snakdd.com/)
+#### 2013 [Accepted papers](https://scholar.google.com/scholar?start=10&hl=zh-CN&as_publication=+Workshop+on+Social+Network+Mining+and+Analysis&as_sdt=0,5&as_ylo=2013&as_yhi=2013)
+#### 2012 [Accepted papers](https://scholar.google.com/scholar?start=10&hl=zh-CN&as_publication=+Workshop+on+Social+Network+Mining+and+Analysis&as_sdt=0,5&as_ylo=2012&as_yhi=2012)
+* `基于CRF(Conditional Random Fields)跨社交网络用户属性聚合`<br>Bartunov S, Korshunov A, Park S T, et al. Joint link-attribute user identity resolution in online social networks[C]//Proceedings of the 6th International Conference on Knowledge Discovery and Data Mining, Workshop on Social Network Mining and Analysis. ACM. 2012.
+* <span style='color:#f03 !important'>`基于通话记录推断用户间关系`<br>Motahari S, Mengshoel O J, Reuther P, et al. The impact of social affinity on phone calling patterns: categorizing social ties from call data records[C]//Proc. of the Sixth Workshop on Social Network Mining and Analysis. 2012.</span>
+
+#### 2011 [Accepted papers](https://scholar.google.com/scholar?start=10&hl=zh-CN&as_publication=+Workshop+on+Social+Network+Mining+and+Analysis&as_sdt=0,5&as_ylo=2011&as_yhi=2011)
+
 
 <br><br>
 ##2.若干机构的期刊论文梳理
