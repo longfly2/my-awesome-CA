@@ -96,6 +96,11 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
 * `Ramdom walk算法打标签进行团体挖掘`<br>Su C, Jia X, Xie X, et al. A New Random-Walk Based Label Propagation Community Detection Algorithm[C]//2015 IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT). IEEE, 2015, 1: 137-140.<br>
 * `问答网站兴趣重叠团体的挖掘`<br>Meng Z, Gandon F, Zucker C F. Simplified detection and labeling of overlapping communities of interest in question-and-answer sites[C]//2015 IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT). IEEE, 2015, 1: 107-114.
 
+<br>
+###1.10 [SNA-KDD 2007-2013 (KDD WorkShop on SNA](http://www.snakdd.com/)
+#### 2013 topic相关梳理,偏算法与网络理论[相关论文的链接](https://scholar.google.com/scholar?q=community&hl=zh-CN&as_publication=IEEE%2FACM+Transactions+on+Networking&as_sdt=0%2C5&as_ylo=2016&as_yhi=2016)
+* `利用bootstrap percolation results 和 a novel graph slicing technique 来处理社交网络去匿名化`<br>Fabiana C. Social Network De-anonymization Under Scale-free User Relations[J]. IEEE-ACM TRANSACTIONS ON NETWORKING.<br>
+
 <br><br>
 ##2.若干机构的期刊论文梳理
 ###2.1 research.facebook.com
