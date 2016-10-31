@@ -7,7 +7,6 @@
 参考2：[数学基础](https://github.com/Tulongf/awesome-CA/blob/master/math/math.md)<br>
 
 ##教程索引
- * [What are some best sources to learn about programmatic advertising?](https://www.quora.com/What-are-some-best-sources-to-learn-about-programmatic-advertising)<br> 
 
  
 ##Booklist
