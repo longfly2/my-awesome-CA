@@ -7,10 +7,6 @@
 <br>搜索关键词：<br>`Community detection` `Community detection survey` `community discovery` `Detecting family`  `relationship labeling`
 <br>
 
-##0.若干大牛(关注一下，可以看看其课程之类的，先Mark)
-* [Mark Newman](http://www-personal.umich.edu/~mejn/)
-* [Jure Leskovec](http://cs.stanford.edu/people/jure/)
-
 
 <br>
 ##1.若干会议的期刊论文梳理
