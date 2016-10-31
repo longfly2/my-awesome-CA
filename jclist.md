@@ -52,10 +52,10 @@ If any authors do not want their paper to be listed here, please feel free to co
 * [ISCI: International Conference on Social Computing](http://sbp-brims.org/2016/)
 * [SOCIALCOM: The IEEE International Conference on Social Computing and Networking](http://tinman.cs.gsu.edu/~socialcom/index.html)
 * [CEC: IEEE Congress on Evolutionary Computation (CEC)](http://www.cec2017.org/)
-* [CSCW: The ACM Conference on Computer-Supported Cooperative Work and Social Computing(CCF-B 人机交互与普适计算)]
+* [CSCW: The ACM Conference on Computer-Supported Cooperative Work and Social Computing(CCF-B 人机交互与普适计算)](http://cscw.acm.org/2017/)
 * [TKDE: IEEE Transactions on Knowledge and Data Engineering(CCF-A 数据挖掘领域)](https://www.computer.org/web/tkde)
 * [IEEE/ACM Transactions on Networking(CCF-A 计算机网络)](http://www.comsoc.org/ton)
-* IEEE/WIC/ACM International Conference on Web Intelligence(CCF-C)[链接](http://wibih.unomaha.edu/wi)
+* [IEEE/WIC/ACM International Conference on Web Intelligence(CCF-C)](http://wibih.unomaha.edu/wi)
 * [SNA-KDD 2007-2014 (KDD WorkShop on SNA](http://www.snakdd.com/)
 
 ##Conference & Journal-machine learning
