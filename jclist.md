@@ -6,6 +6,7 @@ If any authors do not want their paper to be listed here, please feel free to co
 
 #####    
 > 参考1：[CCF: 数据挖掘与内容检索相关会议期刊推荐列表](http://www.ccf.org.cn/sites/ccf/biaodan.jsp?contentId=2567518742937)<br>
+参考2：[SIGIR赞助的会议](http://sigir.org/conferences/sponsored-conferences/)
 
 ##list索引
 
