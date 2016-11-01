@@ -26,6 +26,7 @@ If any authors do not want their paper to be listed here, please feel free to co
 * [随机过程Hyperlink: Stochastic Process MIT View the complete course: Discrete Stochastic Processes](#)<br>
 
 ### 1.5 运筹学
+* [zhihu: 运筹学如何入门](https://www.zhihu.com/question/22686770)
 #### 1.5.1 图论
 
 #### 1.5.2 最优化
