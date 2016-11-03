@@ -162,7 +162,13 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
 
 
 <br><br>
-##4 相关的数据集<br>
+##4 相关topic<br>
+###3.1 图挖掘/频繁子图挖掘
+* [http://sc.xidian.edu.cn/-链接分析与图挖掘](http://sc.xidian.edu.cn/ibm-course-datamining/fileread/show.php?id=7&flag=jiaoxuekejian)
+* [频繁子图数据挖掘研究综述 - 南京大学](http://lamda.nju.edu.cn/liyf/dm14/111220090.pdf)
+
+<br><br>
+##5 相关的数据集<br>
 
 | 数据集名称        | 来源           | 链接  | 说明       |
 | ------------- |:-------------| :-----|:-------------|
