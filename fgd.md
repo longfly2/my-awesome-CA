@@ -4,7 +4,7 @@
 > 参考1：[SNA相关会议期刊列表](https://github.com/Tulongf/awesome-CA/blob/master/jclist.md)<br>
 参考2：[CCF: 数据挖掘与内容检索相关会议期刊推荐列表](http://www.ccf.org.cn/sites/ccf/biaodan.jsp?contentId=2567518742937)<br>
 参考3：[SC-Social Computing教程汇总](https://github.com/Tulongf/my-awesome-CA/blob/master/sc.md)<br>
-<br>搜索关键词：<br>`Community detection` `Community detection survey` `community discovery` `Detecting family`  `relationship labeling` `Social Matching` `Behavior Targeting` `graph mining`
+<br>搜索关键词：<br>`Community detection` `Community detection survey` `community discovery` `Detecting family`  `relationship labeling` `Social Matching` `Behavior Targeting` `graph mining` `Dense Subgraph Discovery`
 <br>
 
 
