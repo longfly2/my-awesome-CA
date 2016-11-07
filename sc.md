@@ -2,7 +2,7 @@
 ### Social Computing
 > This is a collection of research and review papers of social computing. The sharing principle of these references here is for research and learning.If any authors do not want their paper to be listed here, please feel free to contact [tulongf](https://github.com/Tulongf/).You are more than welcome to update this list! If you find more about computional advertise techniques or review which is not listed here, please fork this repository, add it and merge back;or email tulongf `(tulongf@sjtu.edu.cn)`;or report an issue here.<br> 
 >这是一个关于社会计算的资源收藏夹，主要用于研究学习的目的。如果下文中提到的人、论文或者其他信息，引起了您的不愉快，请联系我的邮箱`tulongf@sjtu.edu.cn`，我会真诚的致歉并删除相关条目；如果您有补充的，也可以fork这个文档或者发起issue,谢谢！<br> 
-        
+#####   
 >参考1：[SC相关论文](https://github.com/Tulongf/my-awesome-CA/blob/master/sc.md)<br> 
 参考2：[数学基础](https://github.com/Tulongf/awesome-CA/blob/master/math/math.md)<br>
 
