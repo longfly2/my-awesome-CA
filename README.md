@@ -12,7 +12,7 @@ If any authors do not want their paper to be listed here, please feel free to co
   * [社交计算](https://github.com/Tulongf/awesome-CA/blob/master/sc.md)<br> 
      * [家庭特征模型](https://github.com/Tulongf/my-awesome-CA/blob/master/fgd.md)<br>
      * [主要相关期刊以及投稿信息汇总](https://github.com/Tulongf/my-awesome-CA/blob/master/jclist.md)<br>
-  * [推荐系统](https://github.com/Tulongf/awsome-Rec)<br>  
+ * [推荐系统](https://github.com/Tulongf/awsome-Rec)<br>  
  * [数据挖掘资源](https://github.com/Tulongf/awesome-CA/blob/master/dm/dm.md)<br>
  * [机器学习资源](https://github.com/Tulongf/awesome-CA/blob/master/ml/ml.md)<br>
  * [深度学习资源](https://github.com/Tulongf/awesome-CA/blob/master/dm/dm.md)<br>
