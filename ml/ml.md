@@ -26,6 +26,7 @@ If any authors do not want their paper to be listed here, please feel free to co
   * [笔记：对线性回归，logistic回归和一般回归的认识](http://www.cnblogs.com/jerrylead/archive/2011/03/05/1971867.html)
 
 #重要研究机构以及实验室
+* [常用牛人主页链接](https://github.com/Tulongf/my-awesome-CA/blob/master/ml/teamurl.md)
 * [深度学习研究组汇总](http://blog.csdn.net/chlele0105/article/details/25342139)
 * [MRS-ML](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/)
 
