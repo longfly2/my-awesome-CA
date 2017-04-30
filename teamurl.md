@@ -1,8 +1,5 @@
 <div id="post_detail">
 	<div class="post">
-		<h5 class="posthead">
-			<a id="cb_post_title_url" href="http://www.cnblogs.com/kshenf/archive/2012/02/07/2342034.html">常用牛人主页链接（计算机视觉、模式识别、机器学习相关方向,陆续更新。。。。）</a>
-		</h5>
 		<div class="postText"><div id="cnblogs_post_body"><p><strong>牛人主页（主页有很多论文代码）</strong></p>
 <div><a href="http://cseweb.ucsd.edu/~sjb/" target="_blank">Serge Belongie</a> at UC San Diego</div>
 <div><a href="http://web.mit.edu/torralba/www/" target="_blank">Antonio Torralba</a>&nbsp;at MIT</div>
@@ -293,3 +290,5 @@
 </div>
 <p><a href="http://files.cnblogs.com/kshenf/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%8E%E6%A8%A1%E5%BC%8F%E8%AF%86%E5%88%AB%E5%9B%BD%E9%99%85%E9%A1%B6%E7%BA%A7%E6%9C%9F%E5%88%8A%E4%BC%9A%E8%AE%AE%E7%9B%AE%E5%BD%95.pdf" target="_blank"><span style="font-size: 15px;"><strong>人工智能与模式识别国际顶级期刊会议目录</strong></span></a>（包含该领域最权威的期刊和会议）</p>
 <p>&nbsp;</p>
+
+转载自：http://www.cnblogs.com/kshenf/archive/2012/02/07/2342034.html
