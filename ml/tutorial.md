@@ -6,3 +6,4 @@
 * 关于矩阵的迹求导，应该看什么书？
 > Matrix Differential Calculus with Applications in Statistics and Econometrics
 part2－4，5章看懂了就可以自己推了
+可以参考一个简单点的教程 《Matrix Calculus: Derivation and Simple Application》[link](http://project.hupili.net/tutorial/hu2012-matrix-calculus/hu2012matrix-calculus.pdf)
