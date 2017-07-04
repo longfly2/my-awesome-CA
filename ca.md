@@ -4,16 +4,16 @@
 If any authors do not want their paper to be listed here, please feel free to contact [tulongf](https://github.com/Tulongf/).You are more than welcome to update this list! If you find more about computional advertise techniques or review which is not listed here, please fork this repository, add it and merge back;or email tulongf `(tulongf@sjtu.edu.cn)`;or report an issue here.<br> 
 >这是一个关于计算广告、程序化广告的资源收藏夹，主要用于研究学习的目的。如果下文中提到的人、论文或者其他信息，引起了您的不愉快，请联系我的邮箱`tulongf@sjtu.edu.cn`，我会真诚的致歉并删除相关条目；如果您有补充的，也可以fork这个文档或者发起issue,谢谢！<br> 
 
-##先导参考
+## 先导参考
  * [大数据](https://github.com/Tulongf/Big_Data_Resources)<br> 
  * [推荐系统](https://github.com/Tulongf/Ad-Rec/)<br>
  * [竞价广告fork link](https://github.com/Tulongf/rtb-papers) [竞价广告 source link](https://github.com/wnzhang/rtb-papers)<br>
 
-##教程索引
+## 教程索引
  * [What are some best sources to learn about programmatic advertising?](https://www.quora.com/What-are-some-best-sources-to-learn-about-programmatic-advertising)<br> 
 
  
-##知识脉络
+## 知识脉络
 一、交叉领域（研究问题）<br>
 （1）推荐系统，群体推荐<br>
 （2）机器学习<br>
@@ -34,14 +34,14 @@ If any authors do not want their paper to be listed here, please feel free to co
 （2）内存计算，Spark<br>
 （3）存储引擎，图存储<br>
 
-##Get Started
+## Get Started
 
 
-##知识图谱
+## 知识图谱
 > (1)基本研究问题
 
 
-##视频教程
+## 视频教程
 （1）[《计算广告学》，刘鹏](http://study.163.com/course/introduction.htm?courseId=321007#/courseDetail)<br>
 （2）[《计算广告学-百度》](http://www.chuanke.com/1905702-106933.html)<br>
 （3）[Stanford – Introduction to Computational Advertising](http://web.stanford.edu/class/msande239/)<br>
@@ -55,16 +55,16 @@ If any authors do not want their paper to be listed here, please feel free to co
 （11）[Statistical Learning (统计学习)Spring 2013 -北京大学/Jinzhu Jia and Yuan Yao](http://www.math.pku.edu.cn/teachers/yaoy/2013.spring/)<br>
 （12）[复旦大学《计算新闻传播学》课程](https://github.com/computational-class/cjc2016)<br>
 
-##Lecture/PPT/Tutorial
+## Lecture/PPT/Tutorial
  * [berkeley.edu-Data Mining link](http://people.eecs.berkeley.edu/~jfc/DataMining/SP13/lecs/)<br>
  * [Click Modeling in Search Advertising: Challenges & Solutions](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/JC_Mao_mload2010.pdf)<br>
  * [Machine Learning for Computational Advertising](http://bigeye.au.tsinghua.edu.cn/MLA12/program_files/MLA2012_%E5%88%98%E9%93%81%E5%B2%A9.pdf)
 
-##Booklist
+## Booklist
  * [《计算广告学》，刘鹏](https://book.douban.com/subject/26596778/)
  * [《互联网广告算法和系统实践》](#)
 
-##知名博客
+## 知名博客
  * [上交，Weinan ZHANG](http://wnzhang.net/) / [weibo](http://weibo.com/u/1735865350?is_hot=1)
  * [清华大学-靳晓明](http://www.tsinghua.edu.cn/publish/soft/3641/2010/20101214205115366908394/20101214205115366908394_.html)
  * [Yahoo! Research-Andrei Broder](#)
@@ -74,7 +74,7 @@ If any authors do not want their paper to be listed here, please feel free to co
  * [Jun Wang] (http://web4.cs.ucl.ac.uk/staff/jun.wang/blog/about/)
  * [哈尔滨工业大学-张海军](http://cs.hitsz.edu.cn/teachers/t1/1331623617.html)
 
-##重要研究机构&实验室
+## 重要研究机构&实验室
 * [Yahoo! Labs] (https://research.yahoo.com/)
 * [google Adense adwords、admob](https://adsense.googleblog.com/ )
 * [research.microsoft](https://www.microsoft.com/en-us/research/search/?q=computational+advertising&content-type=groups&sort_by=most-relevant)
@@ -123,13 +123,13 @@ If any authors do not want their paper to be listed here, please feel free to co
  * [计算广告小窥(上)](http://bi.dataguru.cn/article-9179-1.html)
  * [计算广告小窥[下]](http://www.2cto.com/net/201608/542287.html)
  
-##相关数据集
+## 相关数据集
 * [iPinYou Real-Time Bidding Dataset for Computational Advertising Research](http://data.computational-advertising.org/)
 * [Yahoo! Labs ] (https://research.yahoo.com/)
 * [Yahoo dataset](ebscope.sandbox.yahoo.com/catalog.php?datatype=l)
 * [awesome-datascience data-sets](https://github.com/okulbilisim/awesome-datascience#data-sets)
 
-##Conference & Journal
+## Conference & Journal
 * [Best Paper Awards in Computer Science (since 1996)](http://jeffhuang.com/best_paper_awards.html)
 * Data Analysis
   * RecSys
@@ -147,7 +147,7 @@ If any authors do not want their paper to be listed here, please feel free to co
   * [Special Issue on Computational Advertising](https://www.computer.org/web/computingnow/iscfp1)
   * 
 
-##Paperlist
+## Paperlist
  * [1] ADKDD 2014 Best paper
 Chen, Bowei, Yuan, Shuai, Wang, Jun. A Dynamic Pricing Model for Unifying Programmatic Guarantee and Real-Time Bidding in Display Advertising[C]// Eighth International Workshop on Data Mining for Online Advertising. ACM, 2014.
 (展示广告主要有两种销售方式，竞价拍卖RTB、合同定制，这篇文章提出一种数学模型拟合两种方式对比结果。)
