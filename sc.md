@@ -8,10 +8,10 @@
 >参考1：[SC相关论文](https://github.com/Tulongf/my-awesome-CA/blob/master/sc.md)<br> 
 参考2：[数学基础](https://github.com/Tulongf/awesome-CA/blob/master/math/math.md)<br>
 
-##教程索引
+## 教程索引
 
  
-##1 Booklist
+## 1 Booklist
 * 基础介绍类
   * `推荐`扎法拉尼 (Reza Zafarani) 等著，社会媒体挖掘[M], 人民邮电出版社,2015.11
   * `368页`拉塞尔 (Matthew A.Russell)  等著，社交网站的数据挖掘与分析(原书第2版)[M], 机械工业出版社,2015.01.01
@@ -29,7 +29,7 @@
   * `1208页。` 科勒 (Daphne Koller)著，概率图模型:原理与技术[M],清华大学出版社,2015.03.01
   * `Newman的书，推荐` 汪小帆等著，网络科学导论[M], 高等教育出版社,2012.04.01
   
-##2 视频教程
+## 2 视频教程
 (1)重要<br> 
 * [Coursera: StanFord-Social and Economic Networks: Models and Analysis](https://www.coursera.org/learn/social-media-data-analytics)
 * ![](imgs/p.png)[Coursera: StanFord-Probabilistic Graphical Models/概率图模型](https://www.coursera.org/specializations/probabilistic-graphical-models)
@@ -43,25 +43,25 @@
 * [cornell - Networks, Crowds, and Markets](https://www.cs.cornell.edu/home/kleinber/networks-book/)
 
 
-##3 Lecture/PPT/Tutorial
+## 3 Lecture/PPT/Tutorial
 
-##4 博客
+## 4 博客
 * [Mark Newman](http://www-personal.umich.edu/~mejn/)
 * [Jure Leskovec](http://cs.stanford.edu/people/jure/)
 
-##5 重要研究机构&实验室
+## 5 重要研究机构&实验室
 
 
-##6 重要网站
+## 6 重要网站
 
  
-##7 博文收藏
+## 7 博文收藏
 * [豆瓣：可以分享一下关于“社会计算”有哪些国内外顶级会议吗？](https://www.douban.com/group/topic/33541638/)
 * [豆瓣：社会计算（Social Computing）](https://www.douban.com/group/socialcomputing/)
  
-##8 相关数据集
+## 8 相关数据集
 
 
-##9 Conference & Journal
+## 9 Conference & Journal
 
 
