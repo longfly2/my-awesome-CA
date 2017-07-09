@@ -143,9 +143,9 @@ Pramanik S, Gundapuneni M, Pathak S, et al. Predicting Group Success in Meetup[C
 
 
 ### 3.4 Family Community/Group Detection on SNA论文分类梳理
-####(1)如何得到用户特征（数据预处理类别：侧重于处理数据集，获取数据集，处理数据成可以分析的）
-####(2)用户特征建模（如何对数据建模：根据数据生成关系标签）
-####(3)用户间关系挖掘、群体发现（community/group detection 方法类别）
+#### (1)如何得到用户特征（数据预处理类别：侧重于处理数据集，获取数据集，处理数据成可以分析的）
+#### (2)用户特征建模（如何对数据建模：根据数据生成关系标签）
+#### (3)用户间关系挖掘、群体发现（community/group detection 方法类别）
 * `本文有详细的笔记整理`Wan H Y, Lin Y F, Wu Z H, et al. Discovering typed communities in mobile social networks[J]. Journal of Computer Science and Technology, 2012, 27(3): 480-491.<br><br>
 
       
